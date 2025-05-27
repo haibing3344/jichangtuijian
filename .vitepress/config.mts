@@ -4,6 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "机场推荐",
   description: "机场推荐",
+  head: [
+    // 浏览器中图标
+    ["link", {rel: "icon", href: "/favicon.ico"}],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
