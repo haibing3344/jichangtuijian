@@ -40,7 +40,7 @@ XSUS 机场是一家老牌机场，价格实惠，节点较多，节点质量也
 
 ## 机场汇总
 
-[https://jichangtuijian/vpn/vpn.html](https://jichangtuijian/vpn/vpn.html)
+[https://jichangtuijian.uk/vpn/vpn.html](https://jichangtuijian.uk/vpn/vpn.html)
 
 ## 客户端使用方法
 

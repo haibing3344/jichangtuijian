@@ -40,7 +40,7 @@ TNT官网地址：[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.c
 
 ## 机场汇总
 
-[https://jichangtuijian/vpn/vpn.html](https://jichangtuijian/vpn/vpn.html)
+[https://jichangtuijian.uk/vpn/vpn.html](https://jichangtuijian.uk/vpn/vpn.html)
 
 ## 客户端使用方法
 

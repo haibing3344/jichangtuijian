@@ -40,7 +40,7 @@ ssone官网地址：[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE
 
 ## 机场汇总
 
-[https://jichangtuijian/vpn/vpn.html](https://jichangtuijian/vpn/vpn.html)
+[https://jichangtuijian.uk/vpn/vpn.html](https://jichangtuijian.uk/vpn/vpn.html)
 
 ## 客户端使用方法
 

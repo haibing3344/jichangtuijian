@@ -39,7 +39,7 @@ tags:
 
 ## 其他便宜机场汇总
 
-[https://jichangtuijian/vpn/vpn.html](https://jichangtuijian/vpn/vpn.html)
+[https://jichangtuijian.uk/vpn/vpn.html](https://jichangtuijian.uk/vpn/vpn.html)
 
 ## 灯塔cloud客户端官网下载
 

@@ -36,7 +36,7 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ## 机场汇总
 
-[https://jichangtuijian/vpn/vpn.html](https://jichangtuijian/vpn/vpn.html)
+[https://jichangtuijian.uk/vpn/vpn.html](https://jichangtuijian.uk/vpn/vpn.html)
 
 ## 客户端使用方法
 
