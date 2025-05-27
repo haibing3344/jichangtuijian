@@ -38,10 +38,10 @@ features:
       linkText: 机场推荐
 ---
 
-<script setup>
+<!-- <script setup>
 import MFriends from './home/MFriends.vue'
 </script>
 
 <ClientOnly>
   <MFriends/>
-</ClientOnly>
+</ClientOnly> -->
