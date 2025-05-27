@@ -39,10 +39,10 @@ tags:
 
 ## 其他便宜机场汇总
 
-[https://www.ermao.net/posts/vpn](https://www.ermao.net/posts/vpn)
+[https://jichangtuijian/vpn/vpn.html](https://jichangtuijian/vpn/vpn.html)
 
 ## 灯塔cloud客户端官网下载
 
-- 📱 [clash for Android](https://www.ermao.net/article/eh8f4n86/)
-- 🖥 [clash for Windows](https://www.ermao.net/article/0gematwc/)
-- 🍎 [clash for iOS](https://www.ermao.net/article/z747kgjd/)
+- 📱 [clash for Android](https://jichangtuijian.uk/article/clashforAndroid.html)
+- 🖥 [clash for Windows](https://jichangtuijian.uk/article/clash.html)
+- 🍎 [clash for IOS](https://jichangtuijian.uk/article/Shadowrocket.html)

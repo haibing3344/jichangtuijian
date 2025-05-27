@@ -40,10 +40,10 @@ XSUS 机场是一家老牌机场，价格实惠，节点较多，节点质量也
 
 ## 机场汇总
 
-[https://www.ermao.net/posts/vpn](https://www.ermao.net/posts/vpn)
+[https://jichangtuijian/vpn/vpn.html](https://jichangtuijian/vpn/vpn.html)
 
 ## 客户端使用方法
 
-- 📱 [clash for Android](https://www.ermao.net/article/eh8f4n86/)
-- 🖥 [clash for Windows](https://www.ermao.net/article/0gematwc/)
-- 🍎 [clash for iOS](https://www.ermao.net/article/z747kgjd/)
+- 📱 [clash for Android](https://jichangtuijian.uk/article/clashforAndroid.html)
+- 🖥 [clash for Windows](https://jichangtuijian.uk/article/clash.html)
+- 🍎 [clash for IOS](https://jichangtuijian.uk/article/Shadowrocket.html)
