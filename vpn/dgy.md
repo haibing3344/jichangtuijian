@@ -17,7 +17,7 @@ tags:
 
 ## 大哥云官网地址
 
-[https://ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)
+[https://www.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)
 
 ## 大哥云机场简介
 

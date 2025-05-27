@@ -20,7 +20,7 @@ export default defineConfig({
         text: '机场推荐',
         items: [
           { text: '机场汇总', link: '/vpn/vpn' },
-          { text: 'TNT', link: '/vpn/机场推荐TNT' },
+          { text: 'TNT', link: '/vpn/tnt.html' },
           { text: 'XSUS', link: '/vpn/机场推荐XSUS' },
           { text: 'Flybit', link: '/vpn/机场推荐flybit' },
           { text: 'SSOne', link: '/vpn/机场推荐ssone' },
@@ -28,7 +28,7 @@ export default defineConfig({
           { text: '九霄云', link: '/vpn/机场推荐九霄云' },
           { text: '冲上云霄', link: '/vpn/机场推荐冲上云霄' },
           { text: '加速啦', link: '/vpn/机场推荐加速啦' },
-          { text: '大哥云', link: '/vpn/机场推荐大哥云' },
+          { text: '大哥云', link: '/vpn/dgy.html' },
           { text: '好鸭云', link: '/vpn/机场推荐好鸭云' },
           { text: '掌中世界', link: '/vpn/机场推荐掌中世界' },
           { text: '灯塔Cloud', link: '/vpn/机场推荐灯塔cloud' },
