@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@mdit-vue/shared": "^2.1.4",
+    "sass-embedded": "^1.89.0",
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "gitalk": "^1.8.0",
+    "md5": "^2.3.0"
+  }
+}

@@ -1,0 +1,7 @@
+/.history
+/node_modules
+/docs/.vitepress/dist
+.DS_Store
+/.obsidian
+/.trash
+/.idea
