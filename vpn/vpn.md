@@ -9,7 +9,7 @@ tags:
   - 评测
   - 便宜机场
 title: 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)
-permalink: /posts/vpn/
+
 ---
 
 2025 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。
@@ -46,10 +46,10 @@ permalink: /posts/vpn/
 |[纵云梯](#纵云梯)|[https://zongyunti.com/](https://zongyunti.com/?r=60147)| 1G 不限时| 10元 60G/30天|❌不支持|暂无|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=WuuD)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://erozi01.ffvipaff.cc/register?aff=NCO1w4Iv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
-|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
+|[大哥云](#大哥云)|[ermao.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=QS0hzI2y)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
-|[TNT](#tnt)|[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
+|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[加速啦](#加速啦)|[https://jiasu.la/?r=39116](https://jiasu.la/?r=39116)| 1G 不限时 |10元 80G/月|✔支持|[telegram](https://t.me/jiasu_la)|
 |[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 80G/30天|✔支持|[telegram](https://t.me/vpnpn123)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
@@ -57,7 +57,6 @@ permalink: /posts/vpn/
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=gelkjfjz)| 7天 10G | 12元 100G/月|✔支持|暂无|
 |[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)| 无 |8元 168G/30天|✔支持|[telegram](https://t.me/xsusvpn)|
 |[Aladdin](#aladdin)|[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=RtNzblsTdt)|无|30元 390G/半年|❌不支持|暂无|
-|[EF](#ef)|~~www.efcloud1.com~~|无|已跑路|❌不支持|已跑路|
 
 
 ## 简介
@@ -239,7 +238,7 @@ xxyun加速特性如下：
 
 ### 大哥云
 
-大哥云官网地址：[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)
+大哥云官网地址：[ermao.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)
 
 邀请码：peAVAa8D
 
@@ -279,7 +278,7 @@ Aladdin官网地址：[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/reg
 
 ### TNT
 
-TNT官网地址：[https://ermaozi01.tntvipaff.cc](https://ermaozi01.tntvipaff.cc/#/register?code=f1EyPwf3)
+TNT官网地址：[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)
 
 邀请码：f1EyPwf3
 
@@ -408,14 +407,5 @@ XSUS官网地址：[xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)
 
 ---
 
-### EF
-
-EF官网地址：~~https://www.efcloud1.com~~
-
-邀请码：kbbSUTvm
-
-试用：无
-
-2025年1月份，EF 机场确认跑路，官网可以访问，订阅无法使用。
 
 <gitalk/>
