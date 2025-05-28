@@ -28,8 +28,18 @@ tags:
 
 shadowrocket把并没有上线国区应用商店，首先需要先切换到我们提供的ID。
 
-<iframe src="https://s.jiesuo.one/s/ef714f6a92bd4b2ead41b19af6fec920" width="80%" height="750px" style="border: 2px solid #ccc; border-radius: 10px; overflow: auto;" scrolling="yes"></iframe>
-
+::: warning 以下是公益共享 Apple ID 网站推荐：
+    
+-   [https://free.iosapp.icu](https://free.iosapp.icu/)
+-   [https://idfree.top](https://idfree.top/)
+-   [https://idshare.me](https://idshare.me/)
+-   如共享账号无法使用，建议自行购买外区带有 Shadowrocket 的账号，**以后可以永久使用**。
+    
+    推荐商家：
+    
+    -   [水果商店](https://applego.win)
+    -   [小火箭吧](https://xiaohuojian8.com/aff/5305.html)
+:::
 请注意一定要按步骤在App Store登录，切勿在手机“设置”中登录。
 
 1. 打开手机桌面appstore应用点击头像滑到底部退出自己的账号，复制我们的账号点登录后一定要在弹出的APPLE ID安全页面选择“其它选项”-不升级。
