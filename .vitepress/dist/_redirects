@@ -1,2 +1,0 @@
-# 禁用 Cloudflare Pages 的自动重定向
-/*.html /:splat 200
