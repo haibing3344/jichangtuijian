@@ -26,7 +26,7 @@ features:
       details: IEPL/IPLC 高速专线，￥15.00/月。
       link: https://suola.link/w
       linkText: 前往注册
-      
+
     - title: ✈️TNT
       details: 10元/月。新机场、IPLC专线。
       link: /vpn/tnt
@@ -62,9 +62,9 @@ features:
       link: /vpn/adaxi
       linkText: 前往注册
 
-    - title: ✈️百变小星
+    - title: ✈️百变小樱
       details: 最便宜的订阅有15元 100G/30天。
-      link: /vpn/baibianxiaoxing
+      link: /vpn/baibianxiaoying
       linkText: 前往注册
 
     - title: ✈️白羊星
