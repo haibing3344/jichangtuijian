@@ -36,6 +36,21 @@ features:
       details: 机场推荐
       link: https://suola.link/w
       linkText: 前往注册
+
+    - title: ✈️Flybit
+      details: 机场推荐
+      link: /vpn/flybit
+      linkText: 前往注册
+
+    - title: ✈️SSONE
+      details: 机场推荐
+      link: /vpn/ssone
+      linkText: 前往注册
+
+    - title: ✈️老头VPN
+      details: 机场推荐
+      link: /vpn/laotouvpn
+      linkText: 前往注册
 ---
 
 <!-- <script setup>
