@@ -6,3 +6,4 @@
 /.trash
 /.idea
 /.vitepress/dist
+.vitepress/cache
