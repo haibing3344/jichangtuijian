@@ -1,7 +1,6 @@
 ---
 title: ✈️机场推荐【flybit】- 便宜实惠、高性价比
 createTime: 2025/04/01 08:58:05
-permalink: /article/q8yp9r2b/
 tags:
   - 科学上网
   - VPN
@@ -14,13 +13,13 @@ tags:
 
 flybit机场，10元 100G/月，高性价比、IEPL接口线路。
 
-flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
+flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
 
 <!-- more -->
 
 ## flybit机场官网地址
 
-[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
+[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
 
 ## flybit机场简介
 
