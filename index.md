@@ -38,17 +38,17 @@ features:
       linkText: 前往注册
 
     - title: ✈️Flybit
-      details: 机场推荐
+      details: 便宜实惠、高性价比
       link: /vpn/flybit
       linkText: 前往注册
 
     - title: ✈️SSONE
-      details: 机场推荐
+      details: 便宜实惠、高性价比、稳定可靠
       link: /vpn/ssone
       linkText: 前往注册
 
     - title: ✈️老头VPN
-      details: 机场推荐
+      details: 公认老牌机场、稳定实惠
       link: /vpn/laotouvpn
       linkText: 前往注册
 ---
