@@ -1,7 +1,7 @@
 ---
 title: ✈️机场推荐【青云梯】 - 高性价比、老牌机场
 createTime: 2025/01/31 09:29:07
-permalink: /article/mcridsxx/
+description: 青云梯机场，最便宜的订阅有 8元 60g/月(年付)。
 tags:
   - 科学上网
   - VPN
@@ -12,9 +12,11 @@ tags:
   - 青云梯
 ---
 
+# ✈️机场推荐【青云梯】 - 高性价比、老牌机场
+
 ## 青云梯官网地址
 
-[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)
+[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)
 
 ## 青云梯机场简介
 

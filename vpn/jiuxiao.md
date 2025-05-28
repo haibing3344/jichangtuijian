@@ -1,7 +1,7 @@
 ---
 title: ✈️机场推荐【九霄云】 - 服务好，回购率高
 createTime: 2025/02/23 11:44:04
-permalink: /article/gqs2dway/
+description: 九霄云机场，16.8元 80G/月，轻量级机场、价格超低。
 tags:
   - 科学上网
   - VPN
@@ -14,15 +14,17 @@ tags:
   - 低价机场
 ---
 
+# ✈️机场推荐【九霄云】 - 服务好，回购率高
+
 九霄云机场，16.8元 80G/月，轻量级机场、价格超低。
 
-九霄云官网地址：[https://shop.starpro.one](https://shop.starpro.one/#/register?code=ZXzjv7oD)
+九霄云官网地址：[https://shop.starpro.one](https://shop.starpro.one/#/register?code=9q1YCAyq)
 
 <!-- more -->
 
 ## 九霄云官网地址
 
-[https://shop.starpro.one](https://shop.starpro.one/#/register?code=ZXzjv7oD)
+[https://shop.starpro.one](https://shop.starpro.one/#/register?code=9q1YCAyq)
 
 ## 九霄云机场简介
 

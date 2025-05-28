@@ -1,13 +1,14 @@
 ---
 title: 软路由安装openwrt
 createTime: 2024/10/14 19:35:47
-permalink: /article/9zktdhyx/
+description: 软路由安装openwrt,最近有朋友找我帮忙给他的软路由装个 openwrt，顺手写个教程，后面有想要装 openwrt 的朋友可以参考一下。
 tags:
     - openwrt
     - 路由器
     - 软路由
     - 刷机
 ---
+# 软路由安装openwrt
 
 最近有朋友找我帮忙给他的软路由装个 openwrt，顺手写个教程，后面有想要装 openwrt 的朋友可以参考一下。
 

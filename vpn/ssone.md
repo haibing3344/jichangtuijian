@@ -17,13 +17,13 @@ tags:
 
 ssone机场，10元 100G/月，高性价比、稳定可靠、便宜机场。
 
-ssone官网地址：[hello-ssone.com](https://m.ssone.io/#/register?code=TtnrjyBP)
+ssone官网地址：[hello-ssone.com](https://hello-ssone.com/register?aff=TtnrjyBP)
 
 <!-- more -->
 
 ## ssone 官网地址
 
-[hello-ssone.com](https://m.ssone.io/#/register?code=TtnrjyBP)
+[hello-ssone.com](https://hello-ssone.com/register?aff=TtnrjyBP)
 
 ## ssone 机场简介
 

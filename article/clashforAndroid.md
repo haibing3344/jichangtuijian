@@ -1,7 +1,7 @@
 ---
 title: 2025年 Clash for android 下载与安装
 createTime: 2024/09/17 17:26:51
-permalink: /article/eh8f4n86/
+description: 2024 年 Clash for android 下载与安装，简单易用，适合新手。
 tags:
   - 科学上网
   - VPN
@@ -9,7 +9,7 @@ tags:
   - android
   - 翻墙
 ---
-
+# 2025年 Clash for android 下载与安装
 2024 年 Clash for android 下载与安装，简单易用，适合新手。
 
 <!-- more -->

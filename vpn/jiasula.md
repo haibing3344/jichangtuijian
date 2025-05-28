@@ -1,7 +1,7 @@
 ---
 title: ✈️机场推荐【加速啦】- 便宜实惠、高性价比
 createTime: 2024/12/02 11:54:21
-permalink: /article/kewe92tu/
+description: 加速啦机场，最便宜的订阅有10元 80G/月。
 tags:
   - 科学上网
   - VPN
@@ -11,10 +11,11 @@ tags:
   - 便宜机场
   - 加速啦
 ---
+# ✈️机场推荐【加速啦】- 便宜实惠、高性价比
 
 ## 加速啦官网地址
 
-[https://jiasu.la](https://jiasu.la/?r=39116)
+[https://jiasu.la](https://jiasu.la/?r=81186)
 
 ## 加速啦机场简介
 

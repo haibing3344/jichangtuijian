@@ -11,16 +11,17 @@ tags:
   - 便宜机场
   - XSUS
 ---
+# 机场推荐【XSUS】 - 高性价比、老牌机场
 
 xsus机场，最低 8元 168G/月。老牌机场、稳定可靠、高性价比。
 
-xsus官网地址：[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)
+xsus官网地址：[https://xs-us.xyz](https://xs-us.xyz/register?code=Gu0VzNX9)
 
 <!-- more -->
 
 ## XSUS 官网地址
 
-[https://xs-us.xyz](https://xs-us.xyz/register?code=xJFcT1Dw)
+[https://xs-us.xyz](https://xs-us.xyz/register?code=Gu0VzNX9)
 
 ## XSUS 机场简介
 

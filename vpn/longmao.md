@@ -1,7 +1,7 @@
 ---
 title: ✈️机场推荐【龙猫云】 - 全IPLC专线、老牌机场
 createTime: 2025/01/31 09:38:21
-permalink: /article/b6t9mwuv/
+description: 最便宜的订阅有 15元 100G/月。
 tags:
   - 科学上网
   - VPN
@@ -11,10 +11,11 @@ tags:
   - 便宜机场
   - 龙猫云
 ---
+# ✈️机场推荐【龙猫云】 - 全IPLC专线、老牌机场
 
 ## 龙猫云官网地址
 
-[https://ermaozi01.lmvipaff03.cc/](https://ermaozi01.lmvipaff03.cc/register?aff=aOkm2wPW)
+[https://hbhb11822.lmvipaff03.cc/](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)
 
 ## 龙猫云机场简介
 

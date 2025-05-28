@@ -1,7 +1,7 @@
 ---
 title: ✈️机场推荐【白羊星】 - 节点稳定、全流媒体解锁
 createTime: 2025/03/17 02:04:35
-permalink: /article/zuuzyvvh/
+description: 白羊星机场，12元 100G/月，轻量级机场、价格超低。
 tags:
   - 科学上网
   - VPN
@@ -11,16 +11,17 @@ tags:
   - 便宜机场
   - 白羊星
 ---
+# ✈️机场推荐【白羊星】 - 节点稳定、全流媒体解锁
 
 白羊星机场，12元 100G/月，轻量级机场、价格超低。
 
-白羊星官网地址：[baiyangxing.com](https://baiyangxing.com/#/register?code=gelkjfjz)
+白羊星官网地址：[baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)
 
 <!-- more -->
 
 ## 白羊星官网地址
 
-[baiyangxing.com](https://baiyangxing.com/#/register?code=gelkjfjz)
+[baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)
 
 ## 白羊星机场简介
 

@@ -1,7 +1,7 @@
 ---
 title: windows下载安装clash
 createTime: 2024/10/23 12:21:37
-permalink: /article/0gematwc/
+description: windows下载安装clash，简单易用，适合新手。
 tags:
   - 科学上网
   - VPN
@@ -10,7 +10,7 @@ tags:
   - 翻墙
   - clash verge
 ---
-
+# windows下载安装clash
 手把手教学安装clash，简单易用，适合新手。
 
 <!-- more -->
