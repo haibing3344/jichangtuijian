@@ -48,9 +48,9 @@ export default defineConfig({
       message: '机场推荐',
       copyright: 'Copyright © 2023-2025 <a href="/">机场推荐</a>'
     },
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ],
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    // ],
     docFooter: {
       prev: '上一页',
       next: '下一页'
