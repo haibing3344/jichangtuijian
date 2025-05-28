@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "机场推荐"
-  text: "机场推荐"
-  tagline: 2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)
+  text: "2025年便宜好用的翻墙机场推荐评测"
+  tagline: (长期更新 欢迎推荐)
   actions:
     - theme: brand
       text: ✈️机场推荐

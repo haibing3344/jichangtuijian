@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "机场推荐",
-  description: "机场推荐",
+  description: "2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐",
   head: [
     // 浏览器中图标
     ["link", {rel: "icon", href: "/favicon.ico"}],
@@ -45,7 +45,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '机场推荐',
+      message: '2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)',
       copyright: 'Copyright © 2023-2025 <a href="/">机场推荐</a>'
     },
     // socialLinks: [

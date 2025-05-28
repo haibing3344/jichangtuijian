@@ -17,15 +17,16 @@ tags:
 
 ## 下载安装
 
-::: tabs
+::: tip 下载地址
+以下是 clash for windows 下载地址，你可以选择其中一个进行下载。
 
-@tab clash-verge 下载 (推荐)
+- clash-verge 下载 (推荐)
 
 该客户端已汉化，并且包含了 linux、mac、windows 三个版本。
 
 [https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-@tab github 汉化版下载
+- github 汉化版下载
 
 [https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
 
@@ -67,8 +68,7 @@ tags:
 
 ## 其他
 
+
 任何问题都可以留言提问，知无不言。
 
-回复如果回复不及时，可以给我发邮件：[admin@ermao.net](mailto:admin@ermao.net)
-
-如果当前内容过时，可以访问我的博客：[https://ermao.net](https://ermao.net)，其中内容将会保持更新。
+如果当前内容过时，可以访问我的博网站：[https://jichangtuijian.uk](https://jichangtuijian.uk)，其中内容将会保持更新。

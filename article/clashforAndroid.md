@@ -16,17 +16,18 @@ tags:
 
 ## 下载安装
 
-::: tabs
+::: tip 下载地址
+以下是 Clash for android 下载地址，你可以选择其中一个进行下载。
 
-@tab Clash Meta For Android (推荐)
+- Clash Meta For Android (推荐)
 
 [https://down.shudongapi.monster/client-download/cmfa.apk](https://down.shudongapi.monster/client-download/cmfa.apk)
 
-@tab Clash For Android
+- Clash For Android
 
 [https://down.shudongapi.monster/client-download/clash.apk](https://down.shudongapi.monster/client-download/clash.apk)
 
-@tab github下载
+- github下载
 
 [https://github.com/cfwtf/clash_for_android/releases](https://github.com/cfwtf/clash_for_android/releases)
 
@@ -80,6 +81,4 @@ tags:
 
 任何问题都可以留言提问，知无不言。
 
-回复如果回复不及时，可以给我发邮件：[admin@ermao.net](mailto:admin@ermao.net)
-
-如果当前内容过时，可以访问我的博客：[https://ermao.net](https://ermao.net)，其中内容将会保持更新。
+如果当前内容过时，可以访问我的博网站：[https://jichangtuijian.uk](https://jichangtuijian.uk)，其中内容将会保持更新。

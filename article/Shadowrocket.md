@@ -60,7 +60,7 @@ shadowrocket把并没有上线国区应用商店，首先需要先切换到我�
 
 1. 如果没有订阅链接，可以点击下方卡片直接去各大机场购买。
 
-<LinkCard title="✈️便宜好用的翻墙机场推荐评测" href="https://www.ermao.net/posts/vpn/" description="最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。" />
+<LinkCard title="✈️便宜好用的翻墙机场推荐评测" href="https://jichangtuijian.uk/vpn/vpn.html" description="最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。" />
 
 2. 然后打开Shadowrocket应用。
 

@@ -33,7 +33,7 @@ Clash Verge Rev 是一款高效的代理工具，专为 macOS 用户打造，兼
 ## 2. 基本设置
 
 ### 添加订阅链接：
-如果没有订阅链接，可以参考这篇文章：[https://www.ermao.net/posts/vpn](https://www.ermao.net/posts/vpn)。
+如果没有订阅链接，可以参考这篇文章：[https://jichangtuijian.uk/vpn/vpn.html](https://jichangtuijian.uk/vpn/vpn.html)。
 
 1. 打开 **Clash Verge Rev** 软件，点击顶部菜单栏中的“订阅”选项。
 2. 在订阅页面，将复制好的订阅地址粘贴到“订阅文件链接”框内，并点击“导入”。
