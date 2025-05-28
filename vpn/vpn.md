@@ -57,7 +57,7 @@ description: 2025 最好用且便宜的机场推荐，每个机场至少由我�
 |[掌中世界](#掌中世界)|[https://www.zzsjjsq.com](https://www.zzsjjsq.com/user/register?code=ZRQQcjiC)| 无 | 18元 100G/月|❌不支持|暂无|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 7天 10G | 12元 100G/月|✔支持|暂无|
 |[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=Gu0VzNX9)| 无 |8元 168G/30天|✔支持|[telegram](https://t.me/xsusvpn)|
-|[Aladdin](#aladdin)|[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=RtNzblsTdt)|无|30元 390G/半年|❌不支持|暂无|
+
 
 
 ## 简介
