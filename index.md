@@ -8,7 +8,7 @@ hero:
   tagline: (长期更新 欢迎推荐)
   actions:
     - theme: brand
-      text: ✈️机场推荐
+      text: 👉机场推荐👈
       link: /vpn/vpn
 
 
@@ -60,6 +60,11 @@ features:
     - title: ✈️阿达西
       details: 3元/月的价格非常适合轻量级用户。偶尔看看视频、查阅学习资料完全够用。
       link: /vpn/adaxi
+      linkText: 前往注册
+
+    - title: ✈️三文鱼
+      details: 6.9元/30G/月。
+      link: https://dll.swywl.com/register?code=fJl23be8
       linkText: 前往注册
 
     - title: ✈️百变小樱
@@ -129,10 +134,10 @@ features:
 
 ---
 
-<!-- <script setup>
+<script setup>
 import MFriends from './home/MFriends.vue'
 </script>
 
 <ClientOnly>
   <MFriends/>
-</ClientOnly> -->
+</ClientOnly> 
