@@ -37,9 +37,9 @@ features:
       link: /vpn/XSUS
       linkText: 前往注册
 
-    - title: ✈️大哥云
-      details: 近期新上季付轻量包，专门为用量小的用户设计，19.9元/月。
-      link: /vpn/dgy
+    - title: ✈️xxyun
+      details: 最便宜的订阅有8.88元 100G/月。
+      link: /vpn/xxyun
       linkText: 前往注册
 
     - title: ✈️Flybit
@@ -52,14 +52,19 @@ features:
       link: /vpn/ssone
       linkText: 前往注册
 
-    - title: ✈️老头VPN
-      details: 5.5元 150G/月，公认老牌机场、稳定实惠。
-      link: /vpn/laotouvpn
-      linkText: 前往注册
-
     - title: ✈️阿达西
       details: 3元/月的价格非常适合轻量级用户。偶尔看看视频、查阅学习资料完全够用。
       link: /vpn/adaxi
+      linkText: 前往注册
+
+    - title: ✈️大哥云
+      details: 近期新上季付轻量包，专门为用量小的用户设计，19.9元/月。
+      link: /vpn/dgy
+      linkText: 前往注册
+
+    - title: ✈️老头VPN
+      details: 15.5元 150G/月，公认老牌机场、稳定实惠。
+      link: /vpn/laotouvpn
       linkText: 前往注册
 
     - title: ✈️三文鱼
@@ -120,11 +125,6 @@ features:
     - title: ✈️闪狐云
       details: 最便宜的订阅有20元 120G/月。
       link: /vpn/shanhuyun
-      linkText: 前往注册
-
-    - title: ✈️xxyun
-      details: 最便宜的订阅有8.89元 100G/月。
-      link: /vpn/xxyun
       linkText: 前往注册
 
     - title: ✈️纵云梯
