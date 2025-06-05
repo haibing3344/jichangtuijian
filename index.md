@@ -129,7 +129,7 @@ features:
 
     - title: ✈️肥猫云
       details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">618 8折优惠码：happy618。</span>
-      link: /vpn/zongyunti.md
+      link: https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf
       linkText: 前往注册
 
     - title: ✈️闪狐云
