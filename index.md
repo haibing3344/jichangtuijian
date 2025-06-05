@@ -57,6 +57,11 @@ features:
       link: /vpn/adaxi.md
       linkText: 前往注册
 
+    - title: ✈️耐思云
+      details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
+      link: https://m5.nc21.cc/#/register?code=olPZKZYK
+      linkText: 前往注册
+
     - title: ✈️大哥云
       details: 近期新上季付轻量包，专门为用量小的用户设计，19.9元/月。
       link: /vpn/dgy.md
@@ -141,6 +146,7 @@ features:
       details: 最便宜的订阅有10元 60G/30天。
       link: /vpn/zongyunti.md
       linkText: 前往注册
+
 
 ---
 
