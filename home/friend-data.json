@@ -3,7 +3,7 @@
     "title": "Clash for Windows",
     "desc": "一款基于 Clash 内核的 Windows 平台代理工具",
     "link": "https://clashcn.org",
-    "icon": "hhttps://clashcn.org/index-image-src.png"
+    "icon": "https://clashcn.org/index-image-src.png"
   },
   {
     "title": "Clash-verge-rev",
@@ -33,6 +33,6 @@
     "title": "Hiddify",
     "desc": "Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端",
     "link": "https://hiddifycn.org",
-    "icon": "https://github.com/hiddify/hiddify.com/raw/main/docs/assets/hiddify-app-logo.svg"
+    "icon": "/assets/hiddify-app-logo.svg"
   }
 ]
