@@ -57,6 +57,10 @@ features:
       link: https://love.52pokemon.cc/register?code=56ERkkxp
       linkText: 前往注册
 
+    - title: ✈️鱼云（Cloud Fisher）
+      details: 9元 120G/月，<span style="color:red;">年付60一年，折合5元/月。</span>
+      link: https://cloudfisher.one/web/#/login?code=Xrd2NWzo
+      linkText: 前往注册
 
     - title: ✈️Flybit
       details: 10元 100G/月，高性价比、IEPL接口线路。<span style="color:red;">9折优惠码：flybit。</span>
@@ -76,6 +80,36 @@ features:
     - title: ✈️耐思云
       details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
       link: https://m5.nc21.cc/#/register?code=olPZKZYK
+      linkText: 前往注册
+
+    - title: ✈️魔戒
+      details: 最低14.90元 130G。可先买1元2G流量测试。<span style="color:red;">不限时套餐，流量用完再买。</span>
+      link: https://mojie.app/#/register?code=sSdtPtLo
+      linkText: 前往注册
+
+    - title: ✈️三番云
+      details: 最低15.88元 100G/月。解锁流媒体、AI。<span style="color:red;">👑年费七折优惠码：3fan666。</span>
+      link: https://3fan.3f66.net:?code=NuDD6seh
+      linkText: 前往注册
+
+    - title: ✈️尔湾云
+      details: 13.90元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
+      link: https://erwan6.net/auth/register?code=BoObCd
+      linkText: 前往注册
+
+    - title: ✈️TaiShan Net
+      details: 10.00元 128G/月。<span style="color:red;">年付84，折合7元每月。</span>
+      link: https://jp.taishan.pro/register?code=45O5EGR9
+      linkText: 前往注册
+
+    - title: ✈️老百姓自己的机场
+      details: 6元 60G/月，<span style="color:red;">提供1G免费试用。</span>
+      link: https://老百姓自己的机场.com/#/register?code=lfZ9QIT8
+      linkText: 前往注册
+
+    - title: ✈️好好云
+      details: 10元 100G/月，<span style="color:red;">靠谱。</span>
+      link: https://52hhy.com/register?code=EAkkeWkx
       linkText: 前往注册
 
     - title: ✈️大哥云
@@ -99,7 +133,7 @@ features:
       linkText: 前往注册  
 
     - title: ✈️百变小樱
-      details: 最便宜的订阅有15元 100G/30天。
+      details: 最便宜的订阅有15元 100G/30天。电报群签到送流量。
       link: /vpn/baibianxiaoying.md
       linkText: 前往注册
 
@@ -173,20 +207,7 @@ features:
       link: https://my.cloudlion.me/#/register?code=rLyT9shh
       linkText: 前往注册
 
-    - title: ✈️魔戒
-      details: 最低14.90元 130G。可先买1元2G流量测试。<span style="color:red;">不限时套餐，流量用完再买。</span>
-      link: https://mojie.app/#/register?code=sSdtPtLo
-      linkText: 前往注册
 
-    - title: ✈️三番云
-      details: 最低15.88元 100G/月。解锁流媒体、AI。<span style="color:red;">👑年费七折优惠码：3fan666。</span>
-      link: https://3fan.3f66.net:?code=NuDD6seh
-      linkText: 前往注册
-
-    - title: ✈️尔湾云
-      details: 13.90元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
-      link: https://erwan6.net/auth/register?code=BoObCd
-      linkText: 前往注册
 ---
 
 <script setup>
