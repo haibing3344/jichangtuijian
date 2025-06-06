@@ -52,6 +52,12 @@ features:
       link: /vpn/xxyun.md
       linkText: 前往注册
 
+    - title: ✈️宝可梦星云
+      details: 6.9元 100G/月。<span style="color:red;">新用户首单：9折优惠码：9999。</span>
+      link: https://love.52pokemon.cc/register?code=56ERkkxp
+      linkText: 前往注册
+
+
     - title: ✈️Flybit
       details: 10元 100G/月，高性价比、IEPL接口线路。<span style="color:red;">9折优惠码：flybit。</span>
       link: /vpn/flybit.md
