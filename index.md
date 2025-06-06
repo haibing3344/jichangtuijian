@@ -32,6 +32,11 @@ features:
       link: /vpn/tnt.md
       linkText: 前往注册
 
+    - title: ✈️NanoCloud
+      details: 最低1元 100G/月。<span style="color:red;">支持免费试用。</span>
+      link: https://edu.uodoo.bid/auth/register?code=JMiOQDHf
+      linkText: 前往注册
+
     - title: ✈️XSUS
       details: 最低 8元 168G/月。老牌机场、稳定可靠、高性价比。
       link: /vpn/XSUS.md
@@ -147,7 +152,20 @@ features:
       link: /vpn/zongyunti.md
       linkText: 前往注册
 
+    - title: ✈️疾风云
+      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。</span>
+      link: https://homes.tr25.cn?code=ReCm
+      linkText: 前往注册
 
+    - title: ✈️新狮云
+      details: 9.90元 1000G/月。大流量机场。<span style="color:red;">2025年6月7号-9号，新狮云推出6折优惠活动，仅适用于年付、一次性套餐！🎫 优惠券代码：新狮云大学。</span>
+      link: https://my.cloudlion.me/#/register?code=rLyT9shh
+      linkText: 前往注册
+
+    - title: ✈️魔戒
+      details: 最低14.90元 130G。可先买1元2G流量测试。<span style="color:red;">不限时套餐，流量用完再买。</span>
+      link: https://mojie.app/#/register?code=sSdtPtLo
+      linkText: 前往注册
 ---
 
 <script setup>
