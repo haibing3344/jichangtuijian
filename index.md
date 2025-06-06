@@ -37,6 +37,11 @@ features:
       link: https://edu.uodoo.bid/auth/register?code=JMiOQDHf
       linkText: 前往注册
 
+    - title: ✈️CyberGuard
+      details: 18.8元 100G/月。<span style="color:red;">解锁流媒体，不限设备数。</span>
+      link: https://www.cyberguard.best/#/register?code=XsreC0T5
+      linkText: 前往注册
+
     - title: ✈️XSUS
       details: 最低 8元 168G/月。老牌机场、稳定可靠、高性价比。
       link: /vpn/XSUS.md
@@ -165,6 +170,16 @@ features:
     - title: ✈️魔戒
       details: 最低14.90元 130G。可先买1元2G流量测试。<span style="color:red;">不限时套餐，流量用完再买。</span>
       link: https://mojie.app/#/register?code=sSdtPtLo
+      linkText: 前往注册
+
+    - title: ✈️三番云
+      details: 最低15.88元 100G/月。解锁流媒体、AI。<span style="color:red;">👑年费七折优惠码：3fan666。</span>
+      link: https://3fan.3f66.net:?code=NuDD6seh
+      linkText: 前往注册
+
+    - title: ✈️尔湾云
+      details: 13.90元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
+      link: https://erwan6.net/auth/register?code=BoObCd
       linkText: 前往注册
 ---
 
