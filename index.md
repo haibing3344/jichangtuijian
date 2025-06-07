@@ -207,6 +207,10 @@ features:
       link: https://my.cloudlion.me/#/register?code=rLyT9shh
       linkText: 前往注册
 
+    - title: ✈️ANYWAY
+      details: 最低6元 60G/月。<span style="color:red;">🎉 9折端午优惠码：DW90。</span>
+      link: https://www.anyway.best/#/register?code=NM9asaGL
+      linkText: 前往注册
 
 ---
 
