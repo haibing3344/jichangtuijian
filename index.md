@@ -226,6 +226,11 @@ features:
       details: 月付19.9元 100G流量。<span style="color:red;">包年特惠7折优惠代码：YYY11 结束时间2025.07.1</span>
       link: https://suyunti981.xyz/auth/register?code=37Wm
       linkText: 前往注册
+
+    - title: ✈️泡芙云
+      details: 月付16元 100G流量。<span style="color:red;">7折优惠码：paofu2025 活动有效期：至2025年06月30日</span>
+      link: https://x.paofu.io/register?code=FB8MMghY
+      linkText: 前往注册
 ---
 
 <script setup>
