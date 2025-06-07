@@ -216,6 +216,16 @@ features:
       details: 月付18.8元，自用机场，稳定使用5年。<span style="color:red;">8.8元试用一周。</span>
       link: https://次元.net/auth/register?code=kJVs
       linkText: 前往注册
+
+    - title: ✈️SSRdog
+      details: 月付25元 150G流量。<span style="color:red;">24小時3G流量試用丨滿意後購買</span>
+      link:  https://st1.hosbb.com/#/register?code=WM55GuJt
+      linkText: 前往注册
+
+    - title: ✈️速云梯
+      details: 月付19.9元 100G流量。<span style="color:red;">包年特惠7折优惠代码：YYY11 结束时间2025.07.1</span>
+      link: https://suyunti981.xyz/auth/register?code=37Wm
+      linkText: 前往注册
 ---
 
 <script setup>
