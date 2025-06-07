@@ -212,6 +212,10 @@ features:
       link: https://www.anyway.best/#/register?code=NM9asaGL
       linkText: 前往注册
 
+    - title: ✈️次元链接
+      details: 月付18.8元，自用机场，稳定使用5年。<span style="color:red;">8.8元试用一周。</span>
+      link: https://次元.net/auth/register?code=kJVs
+      linkText: 前往注册
 ---
 
 <script setup>
