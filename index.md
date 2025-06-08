@@ -67,11 +67,6 @@ features:
       link: /vpn/flybit.md
       linkText: 前往注册
 
-    - title: ✈️SSONE
-      details: 10元 100G/月，高性价比、稳定可靠、便宜机场。
-      link: /vpn/ssone.md
-      linkText: 前往注册
-
     - title: ✈️阿达西
       details: 3元/月的价格非常适合轻量级用户。偶尔看看视频、查阅学习资料完全够用。
       link: /vpn/adaxi.md
@@ -85,6 +80,11 @@ features:
     - title: ✈️魔戒
       details: 最低14.90元 130G。可先买1元2G流量测试。<span style="color:red;">不限时套餐，流量用完再买。</span>
       link: https://mojie.app/#/register?code=sSdtPtLo
+      linkText: 前往注册
+
+    - title: ✈️泡芙云
+      details: 月付16元 100G流量。<span style="color:red;">7折优惠码：paofu2025 活动有效期：至2025年06月30日</span>
+      link: https://x.paofu.io/register?code=FB8MMghY
       linkText: 前往注册
 
     - title: ✈️三番云
@@ -227,10 +227,7 @@ features:
       link: https://suyunti981.xyz/auth/register?code=37Wm
       linkText: 前往注册
 
-    - title: ✈️泡芙云
-      details: 月付16元 100G流量。<span style="color:red;">7折优惠码：paofu2025 活动有效期：至2025年06月30日</span>
-      link: https://x.paofu.io/register?code=FB8MMghY
-      linkText: 前往注册
+
 ---
 
 <script setup>
