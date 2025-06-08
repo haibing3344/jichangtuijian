@@ -72,6 +72,11 @@ features:
       link: /vpn/adaxi.md
       linkText: 前往注册
 
+    - title: ✈️白羊星
+      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">注册试用6小时</span>
+      link: /vpn/baiyangxing.md
+      linkText: 前往注册
+
     - title: ✈️耐思云
       details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
       link: https://m5.nc21.cc/#/register?code=olPZKZYK
@@ -135,11 +140,6 @@ features:
     - title: ✈️百变小樱
       details: 最便宜的订阅有15元 100G/30天。电报群签到送流量。
       link: /vpn/baibianxiaoying.md
-      linkText: 前往注册
-
-    - title: ✈️白羊星
-      details: 12元 100G/月，轻量级机场、价格超低。
-      link: /vpn/baiyangxing.md
       linkText: 前往注册
 
     - title: ✈️灯塔cloud
