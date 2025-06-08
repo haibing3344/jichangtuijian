@@ -34,5 +34,11 @@
     "desc": "Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端",
     "link": "https://hiddifycn.org",
     "icon": "/assets/hiddify-app-logo.svg"
+  },
+  {
+    "title": "Loon",
+    "desc": "Loon是一个iOS平台代理工具",
+    "link": "https://nsloon.uk",
+    "icon": "/assets/nsloon.webp"
   }
 ]
