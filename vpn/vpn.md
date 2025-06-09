@@ -44,7 +44,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/4yEURhWn.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=Rqsi)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
-|[闪狐云](#闪狐云)|[flashfox.cc](https://inv01.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
+|[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
@@ -176,7 +176,7 @@ xxyun加速特性如下：
 
 ### 闪狐云
 
-闪狐云官网地址：[flashfox.cc](https://inv01.ffaff.cc/register?aff=WQApz2pv)
+闪狐云官网地址：[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)
 
 邀请码：WQApz2pv
 
