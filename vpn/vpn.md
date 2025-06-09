@@ -37,13 +37,11 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
-|[阿达西](#阿达西)|[https://adaxi.net](https://adaxi.net/?r=81168)| 无 |3元 20G/月|✔支持|暂无|
+|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[老头vpn](#老头vpn)|[https://www.chattous.net](https://www.chattous.net/register?code=MAiRMtof)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
 |[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/4yEURhWn.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
-|[纵云梯](#纵云梯)|[https://zongyunti.com/](https://zongyunti.com/?r=81194)| 1G 不限时| 10元 60G/30天|❌不支持|暂无|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=Rqsi)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://inv01.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
@@ -51,7 +49,6 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
 |[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[加速啦](#加速啦)|[https://jiasu.la/?r=81186](https://jiasu.la/?r=81186)| 1G 不限时 |10元 80G/月|✔支持|[telegram](https://t.me/jiasu_la)|
-|[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=81177)| 1天 1G |5元 80G/30天|✔支持|[telegram](https://t.me/vpnpn123)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
 |[掌中世界](#掌中世界)|[https://www.zzsjjsq.com](https://www.zzsjjsq.com/user/register?code=ZRQQcjiC)| 无 | 18元 100G/月|❌不支持|暂无|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 7天 10G | 12元 100G/月|✔支持|暂无|
@@ -75,6 +72,20 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ---
 
+### 青云梯
+
+青云梯官网地址：[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)
+
+邀请码：dTvJ05CM
+
+试用：无
+
+最便宜的订阅有25元 150G/月。
+
+机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
+
+---
+
 ### 老头vpn
 
 老头vpn官网地址：[www.chattous.net](https://www.chattous.net/register?code=MAiRMtof)
@@ -88,22 +99,6 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 老头VPN 从2016年开始运营，资历非常老，期间一直保持高质量服务。全球华人公认的老牌国际加速服务厂商 高达2Gbps的单线接入能力。
 
 支持微信支付宝。
-
----
-
-### 阿达西
-
-阿达西官网地址：[https://adaxi.net](https://adaxi.net/?r=81168)
-
-邀请码：81168
-
-试用：无
-
-最便宜的订阅有3元 20G/月。
-
-新出的轻量级机场，这是目前最便宜的机场！节点虽少但背靠大树好乘凉，速度和稳定性都不错。
-
-非常适合偶尔翻墙或是长时间浏览推特、Facebook等社交网站的同学。
 
 ---
 
@@ -141,19 +136,6 @@ xxyun加速特性如下：
 
 ---
 
-### 纵云梯
-
-纵云梯官网地址：[https://zongyunti.com/](https://zongyunti.com/?r=81194)
-
-邀请码：81194
-
-试用：1G 不限时
-
-最便宜的订阅有10元 60G/30天。
-
-纵云梯是一家新机场，个人体验了一下速度还不错，客服响应也比较快。
-
----
 
 ### 百变小樱
 
@@ -279,19 +261,6 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 
 ---
 
-### 青云梯
-
-青云梯官网地址：[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)
-
-邀请码：dTvJ05CM
-
-试用：无
-
-最便宜的订阅有25元 150G/月。
-
-机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
-
----
 
 ### 加速啦
 
@@ -335,19 +304,6 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 
 ---
 
-### 冲上云霄
-
-冲上云霄官网地址：[cpdd.one](https://cpdd.one/?r=81177)
-
-邀请码：81177
-
-试用：1天 1G
-
-最便宜的订阅有5元 80G/30天。
-
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
-
----
 
 ### 九霄云
 

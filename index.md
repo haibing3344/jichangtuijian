@@ -67,10 +67,6 @@ features:
       link: /vpn/flybit.md
       linkText: 前往注册
 
-    - title: ✈️阿达西
-      details: 3元/月的价格非常适合轻量级用户。偶尔看看视频、查阅学习资料完全够用。
-      link: /vpn/adaxi.md
-      linkText: 前往注册
 
     - title: ✈️白羊星
       details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">注册试用6小时</span>
@@ -152,11 +148,6 @@ features:
       link: /vpn/duck.md
       linkText: 前往注册
 
-    - title: ✈️冲上云霄
-      details: 最便宜的订阅有 5元 80G/30天。
-      link: /vpn/chongshangyunxiao.md
-      linkText: 前往注册
-
     - title: ✈️加速啦
       details: 最便宜的订阅有10元 80G/月。
       link: /vpn/jiasula.md
@@ -190,11 +181,6 @@ features:
     - title: ✈️闪狐云
       details: 最便宜的订阅有20元 120G/月。
       link: /vpn/shanhuyun.md
-      linkText: 前往注册
-
-    - title: ✈️纵云梯
-      details: 最便宜的订阅有10元 60G/30天。
-      link: /vpn/zongyunti.md
       linkText: 前往注册
 
     - title: ✈️疾风云
