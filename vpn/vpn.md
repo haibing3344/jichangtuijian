@@ -61,17 +61,17 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 ## 简介
 
-### ssone
+### flybit
 
-官网地址：[m.ssone.io](https://hello-ssone.com/register?aff=TtnrjyBP)
+flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
 
-邀请码：TtnrjyBP
+邀请码：o7YHNoqs
 
-试用：1天 1G
+试用：1天 2G
 
 最便宜的订阅有10元 100G/月。
 
-这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
+解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
 
 ---
 
@@ -88,20 +88,6 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 老头VPN 从2016年开始运营，资历非常老，期间一直保持高质量服务。全球华人公认的老牌国际加速服务厂商 高达2Gbps的单线接入能力。
 
 支持微信支付宝。
-
----
-
-### flybit
-
-flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
-
-邀请码：o7YHNoqs
-
-试用：1天 2G
-
-最便宜的订阅有10元 100G/月。
-
-解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
 
 ---
 
