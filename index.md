@@ -113,6 +113,17 @@ features:
       link: https://52hhy.com/register?code=EAkkeWkx
       linkText: 前往注册
 
+    - title: ✈️青云梯
+      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;">618 85折优惠码：wuyi85。截止6月30号</span>
+      link: /vpn/qyt.md
+      linkText: 前往注册
+
+    - title: ✈️银河云
+      details: 8元 50G/月，年付96元。<span style="color:red;">618 85折优惠码：wuyi85。截止6月30号</span>
+      link: https://inv02.galaxyaff.cc/register?aff=la8LavLb
+      linkText: 前往注册
+
+
     - title: ✈️大哥云
       details: 近期新上季付轻量包，专门为用量小的用户设计，19.9元/月。
       link: /vpn/dgy.md
@@ -156,11 +167,6 @@ features:
     - title: ✈️九霄云
       details: 16.8元 80G/月，轻量级机场、价格超低。
       link: /vpn/jiuxiao.md
-      linkText: 前往注册
-
-    - title: ✈️青云梯
-      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;">618 85折优惠码：wuyi85。</span>
-      link: /vpn/qyt.md
       linkText: 前往注册
 
     - title: ✈️掌中世界
