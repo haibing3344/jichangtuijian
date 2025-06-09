@@ -27,6 +27,11 @@ features:
       link: https://suola.link/w
       linkText: 前往注册
 
+    - title: ✈️闪狐云
+      details: 最便宜的订阅有20元 120G/月。<span style="color:red;">不限速，不限设备数。618 8折优惠码：flashfox618</span>
+      link: /vpn/shanhuyun.md
+      linkText: 前往注册
+
     - title: ✈️TNT
       details: 10元/月。新机场、IPLC专线。<span style="color:red;">618 8折优惠码：Crazy618。</span>
       link: /vpn/tnt.md
@@ -180,11 +185,6 @@ features:
     - title: ✈️肥猫云
       details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">618 8折优惠码：happy618。</span>
       link: https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf
-      linkText: 前往注册
-
-    - title: ✈️闪狐云
-      details: 最便宜的订阅有20元 120G/月。
-      link: /vpn/shanhuyun.md
       linkText: 前往注册
 
     - title: ✈️疾风云
