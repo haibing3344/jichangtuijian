@@ -17,7 +17,7 @@ tags:
 
 ## 官网地址
 
-[https://inv01.ffvipaff.cc](https://inv01.ffaff.cc/register?aff=WQApz2pv)
+[https://inv01.ffvipaff.cc](https://inv01.ffaff.cc/register?aff=WQApz2pv) **<span style="color: red;">💛618全场8折优惠码：flashfox618</span>**
 
 ## 闪狐云机场简介
 
