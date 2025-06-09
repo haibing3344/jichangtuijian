@@ -36,19 +36,19 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
+|[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv02.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[老头vpn](#老头vpn)|[https://www.chattous.net](https://www.chattous.net/register?code=MAiRMtof)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
 |[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/4yEURhWn.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
 |[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=Rqsi)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
-|[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[大哥云](#大哥云)|[ermao.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
-|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[加速啦](#加速啦)|[https://jiasu.la/?r=81186](https://jiasu.la/?r=81186)| 1G 不限时 |10元 80G/月|✔支持|[telegram](https://t.me/jiasu_la)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
 |[掌中世界](#掌中世界)|[https://www.zzsjjsq.com](https://www.zzsjjsq.com/user/register?code=ZRQQcjiC)| 无 | 18元 100G/月|❌不支持|暂无|
@@ -58,6 +58,32 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 
 ## 简介
+
+
+### 闪狐云
+
+闪狐云官网地址：[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)
+
+邀请码：WQApz2pv
+
+试用：无
+
+最便宜的订阅有20元 120G/月。
+
+闪狐云是目前我用过的节点质量最高的机场，价格虽然不是最便宜的，但是性价比非常高。支持支付宝。
+
+**特性如下**
+
+- BGP隧道中转，IPLC高速内网纯专线出口，延迟低
+- 5大运营商动态优化。
+- trojan协议，安全、高速、加密。
+- 解锁全球流媒体、AI工具。
+- 无设备和ip限制。
+- 1000Mbps速率，晚高峰不限速
+- 专业人工客服，快速响应
+- 接受企业或者个人定制业务
+
+---
 
 ### flybit
 
@@ -171,31 +197,6 @@ xxyun加速特性如下：
 另外，此机场支持SSR系列代理软件，例如小火箭和Clash。
 
 支付方式涵盖支付宝、微信支付以及USDT。
-
----
-
-### 闪狐云
-
-闪狐云官网地址：[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)
-
-邀请码：WQApz2pv
-
-试用：无
-
-最便宜的订阅有20元 120G/月。
-
-闪狐云是目前我用过的节点质量最高的机场，价格虽然不是最便宜的，但是性价比非常高。支持支付宝。
-
-**特性如下**
-
-- BGP隧道中转，IPLC高速内网纯专线出口，延迟低
-- 5大运营商动态优化。
-- trojan协议，安全、高速、加密。
-- 解锁全球流媒体、AI工具。
-- 无设备和ip限制。
-- 1000Mbps速率，晚高峰不限速
-- 专业人工客服，快速响应
-- 接受企业或者个人定制业务
 
 ---
 
