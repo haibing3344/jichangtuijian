@@ -37,7 +37,6 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
-|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=TtnrjyBP)| 1天 1G |10元 100G/月|❌不支持|[telegram](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[阿达西](#阿达西)|[https://adaxi.net](https://adaxi.net/?r=81168)| 无 |3元 20G/月|✔支持|暂无|
 |[老头vpn](#老头vpn)|[https://www.chattous.net](https://www.chattous.net/register?code=MAiRMtof)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
 |[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
