@@ -38,6 +38,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |---|---|---|--|---|---|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
+|[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv02.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[老头vpn](#老头vpn)|[https://www.chattous.net](https://www.chattous.net/register?code=MAiRMtof)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
 |[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/4yEURhWn.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
@@ -83,6 +84,20 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 最便宜的订阅有25元 150G/月。
 
 机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
+
+---
+
+### 银河云
+
+银河云官网地址：[ivt02.galaxyaff.cc](https://inv02.galaxyaff.cc/register?aff=la8LavLb)
+
+邀请码：la8LavLb
+
+试用：无
+
+最便宜的订阅有18元 100G/月。 年付98元，每月50G，折合每月8元。
+
+银河云trojan专线机场，成立与2024年6月，新加坡海外团队大机房产品，性价比专线，24h在线客服，专业且靠谱稳定，任何线路问题都是1h内修复处理，支持退款。
 
 ---
 
