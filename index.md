@@ -47,11 +47,6 @@ features:
       link: https://www.cyberguard.best/#/register?code=XsreC0T5
       linkText: 前往注册
 
-    - title: ✈️XSUS
-      details: 最低 8元 168G/月。老牌机场、稳定可靠、高性价比。
-      link: /vpn/XSUS.md
-      linkText: 前往注册
-
     - title: ✈️xxyun
       details: 最便宜的订阅有8.88元 100G/月。<span style="color:red;">618 85折优惠码：xxyun618</span>
       link: /vpn/xxyun.md
@@ -117,6 +112,11 @@ features:
       link: https://jp.taishan.pro/register?code=45O5EGR9
       linkText: 前往注册
 
+    - title: ✈️好鸭云
+      details: 最便宜的订阅有5元 50G/月(季付）。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;">端午75折优惠码：duck-75。</span>
+      link: /vpn/duck.md
+      linkText: 前往注册
+
     - title: ✈️老百姓自己的机场
       details: 6元 60G/月，<span style="color:red;">提供1G免费试用。</span>
       link: https://老百姓自己的机场.com/#/register?code=lfZ9QIT8
@@ -155,16 +155,6 @@ features:
     - title: ✈️灯塔cloud
       details: 最便宜的订阅有10元 100G/月(半年付)。
       link: /vpn/dengta.md
-      linkText: 前往注册
-    
-    - title: ✈️好鸭云
-      details: 最便宜的订阅有12元 100G/月。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;">端午75折优惠码：duck-75。</span>
-      link: /vpn/duck.md
-      linkText: 前往注册
-
-    - title: ✈️加速啦
-      details: 最便宜的订阅有10元 80G/月。
-      link: /vpn/jiasula.md
       linkText: 前往注册
 
     - title: ✈️九霄云
