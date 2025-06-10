@@ -178,12 +178,12 @@ features:
       linkText: 前往注册
 
     - title: ✈️疾风云
-      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。</span>
+      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。📅 活动截止日期：7月1日。</span>
       link: https://homes.tr25.cn?code=ReCm
       linkText: 前往注册
 
     - title: ✈️新狮云
-      details: 9.90元 1000G/月。大流量机场。<span style="color:red;">2025年6月7号-9号，新狮云推出6折优惠活动，仅适用于年付、一次性套餐！🎫 优惠券代码：新狮云大学。</span>
+      details: 9.90元 1000G/月。<span style="color:red;">2025年6月7号-9号，新狮云推出6折优惠活动，仅适用于年付、一次性套餐！🎫 优惠券代码：新狮云大学。</span>
       link: https://my.cloudlion.me/#/register?code=rLyT9shh
       linkText: 前往注册
 
