@@ -40,5 +40,11 @@
     "desc": "Loon是一个iOS平台代理工具",
     "link": "https://nsloon.uk",
     "icon": "/assets/nsloon.webp"
+  },
+  {
+    "title": "Stash",
+    "desc": "简单且强大的网络工具",
+    "link": "https://stashapp.uk",
+    "icon": "/assets/stash.png"
   }
 ]
