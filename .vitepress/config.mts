@@ -27,14 +27,10 @@ export default defineConfig({
           { text: 'Flybit', link: '/vpn/flybit.md' },
           { text: 'XX云', link: '/vpn/xxyun.md' },
           { text: '九霄云', link: '/vpn/jiuxiao.md' },
-          { text: '加速啦', link: '/vpn/jiasula.md' },
           { text: '大哥云', link: '/vpn/dgy.md' },
           { text: '好鸭云', link: '/vpn/duck.md' },
-          { text: '掌中世界', link: '/vpn/zzsj.md' },
           { text: '灯塔Cloud', link: '/vpn/dengta.md' },
           { text: '白羊星', link: '/vpn/baiyangxing.md' },
-          { text: '百变小樱', link: '/vpn/baibianxiaoying.md' },
-          { text: '老头VPN', link: '/vpn/laotouvpn.md' },
           { text: '闪狐云', link: '/vpn/shanhuyun.md' },
           { text: '龙猫云', link: '/vpn/longmao.md' }
         ]

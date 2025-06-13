@@ -45,15 +45,12 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/4yEURhWn.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
-|[百变小樱](#百变小樱)|[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=Rqsi)| 无 | 15元 100G/30天|❌不支持|[telegram](https://t.me/+IugiUXlyYqgyNjE0)|
-|[大哥云](#大哥云)|[ermao.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
+|[大哥云](#大哥云)|[www.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
-|[加速啦](#加速啦)|[https://jiasu.la/?r=81186](https://jiasu.la/?r=81186)| 1G 不限时 |10元 80G/月|✔支持|[telegram](https://t.me/jiasu_la)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
-|[掌中世界](#掌中世界)|[https://www.zzsjjsq.com](https://www.zzsjjsq.com/user/register?code=ZRQQcjiC)| 无 | 18元 100G/月|❌不支持|暂无|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 7天 10G | 12元 100G/月|✔支持|暂无|
-|[XSUS](#xsus)|[https://xs-us.xyz](https://xs-us.xyz/register?code=Gu0VzNX9)| 无 |8元 168G/30天|✔支持|[telegram](https://t.me/xsusvpn)|
+
 
 
 
@@ -178,28 +175,6 @@ xxyun加速特性如下：
 ---
 
 
-### 百变小樱
-
-百变小樱官网地址：[https://bbxy88.com](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=Rqsi)
-
-试用：无
-
-最便宜的订阅有15元 100G/30天。
-
-百变小樱优惠码：
-
-- 半年付95折优惠码：`happy10-1-6month`
-- 年付88折优惠码：`happy10-1-1year`
-- 三年付78折优惠码：`happy10-1-3years`
-
-百变小樱是一家自2020年起运营的低调小众机场，线路稳定可靠，采用隧道与专线结合的架构。其套餐支持两种不同的使用方式，并配有定制化精简面板，有效避免节点列表冗长。团队已迁至海外运营，确保无按流量风险，主打产品特点为稳定性、全流媒体解锁、超低价格以及附赠流媒体账号。
-
-另外，此机场支持SSR系列代理软件，例如小火箭和Clash。
-
-支付方式涵盖支付宝、微信支付以及USDT。
-
----
-
 ### 龙猫云
 
 龙猫云官网地址：[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)
@@ -222,7 +197,7 @@ xxyun加速特性如下：
 
 ### 大哥云
 
-大哥云官网地址：[ermao.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)
+大哥云官网地址：[www.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)
 
 邀请码：SSN0WQ9
 
@@ -278,33 +253,6 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 ---
 
 
-### 加速啦
-
-加速啦官网地址：[jiasu.la](https://jiasu.la/?r=81186)
-
-邀请码：81186
-
-试用：1G 不限时
-
-最便宜的订阅有10元 80G/月。
-
-全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-
----
-
-### 掌中世界
-
-掌中世界官网地址：[zzsjjsq.com](https://www.zzsjjsq.com/user/register?code=ZRQQcjiC)
-
-邀请码：ZRQQcjiC
-
-试用：7天 10G
-
-最便宜的订阅有18元 100G/月。
-
-节点稳定，客服24小时在线，解锁主流流媒体。
-
----
 
 ### 白羊星
 
@@ -340,15 +288,5 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 
 ---
 
-### XSUS
 
-XSUS官网地址：[xs-us.xyz](https://xs-us.xyz/register?code=Gu0VzNX9)
-
-邀请码：Gu0VzNX9
-
-试用：无
-
-最便宜的订阅有8元 168G/30天。稳定运行2年+，节点质量高，支持按流量购买，支持支付宝、微信、USDT支付。
-
----
 
