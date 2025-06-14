@@ -20,8 +20,8 @@ export default defineConfig({
         text: '机场推荐',
         items: [
           { text: '机场汇总', link: '/vpn/vpn.md' },
+          { text: '闪狐云', link: '/vpn/shanhuyun.md' },
           { text: 'TNT', link: '/vpn/tnt.md' },
-          { text: 'XSUS', link: '/vpn/XSUS.md' },
           { text: '青云梯', link: '/vpn/qyt.md' },
           { text: '银河云', link: '/vpn/galaxycloud.md' },
           { text: 'Flybit', link: '/vpn/flybit.md' },
@@ -31,7 +31,6 @@ export default defineConfig({
           { text: '好鸭云', link: '/vpn/duck.md' },
           { text: '灯塔Cloud', link: '/vpn/dengta.md' },
           { text: '白羊星', link: '/vpn/baiyangxing.md' },
-          { text: '闪狐云', link: '/vpn/shanhuyun.md' },
           { text: '龙猫云', link: '/vpn/longmao.md' }
         ]
       }

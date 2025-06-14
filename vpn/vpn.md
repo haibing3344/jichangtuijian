@@ -36,6 +36,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
+|[优信云](#优信云)|[https://www.youxin66.net](https://www.youxin66.net/#/register?code=JRtE5uIV)| 无 |15.99元 100G/月|❌不支持|无|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
@@ -50,12 +51,34 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 7天 10G | 12元 100G/月|✔支持|暂无|
-
+|[CyberGuard](#CyberGuard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
 
 
 
 ## 简介
 
+### 优信云
+
+优信云官网地址：[www.youxin66.net](https://www.youxin66.net/#/register?code=JRtE5uIV)
+
+最便宜 15.99 每月，专线Trojan协议机场。主打节点多，100多个地区节点。老板拥有多家机场。
+
+套餐特点
+
+- 流量：100 GB
+- 速度：200 Mbps
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
+7. 可用等级一节点
+8. **<span style="color: red;">💛年费套餐7折优惠码：618 </span>**
 
 ### 闪狐云
 
@@ -285,8 +308,26 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 
 同时性价比高，支持支付宝、微信支付。
 
-
 ---
 
+### CyberGuard
 
+CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)
 
+邀请码：XsreC0T5
+
+套餐特点
+
+- 流量：100 GB
+- 速度：300 Mbps
+- 设备数：不限制
+
+使用说明
+
+1. 每月 100G 流量
+2. 每月自动重置流量
+3. **<span style="color: red;">💛IEPL企业级内网专线无视墙敏感时期</span>**
+4. **<span style="color: red;">💛解锁Netflix/Hbo/Disney+/Dazn等流媒体</span>**
+5. 最高 300M 速率可用，高速稳定
+6. 不限制设备数量，请合理使用
+7. 99% 服务可用率保障，稳定可靠
