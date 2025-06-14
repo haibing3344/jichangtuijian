@@ -50,8 +50,9 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
+|[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 7天 10G | 12元 100G/月|✔支持|暂无|
-|[CyberGuard](#CyberGuard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
+
 
 
 
@@ -310,7 +311,7 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 
 ---
 
-### CyberGuard
+### cyberguard
 
 CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)
 
@@ -331,3 +332,4 @@ CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#
 5. 最高 300M 速率可用，高速稳定
 6. 不限制设备数量，请合理使用
 7. 99% 服务可用率保障，稳定可靠
+---
