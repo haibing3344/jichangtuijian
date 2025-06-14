@@ -56,10 +56,11 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)| 无 | 6.9元 60G/月|❌不支持|[telegram](https://t.me/pokemon_love)|
 |[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
 |[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
-|[鱼云](#鱼云)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
+|[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
 |[Taishan](#taishan)|[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
 |[新狮云](#新狮云)|[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)| 无 | 5.9元 500G/月（年付）|✔支持|[telegram](https://t.me/cloudlion_chat)|
-|[魔戒](#魔戒)|[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)| 无 | 1元 2G/不限时|✔支持|暂无|
+|[魔戒](#魔戒)|[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
+
 ## 简介
 
 ### 优信云
@@ -337,3 +338,107 @@ CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#
 6. 不限制设备数量，请合理使用
 7. 99% 服务可用率保障，稳定可靠
 ---
+
+### nanocloud
+
+NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)
+
+最便宜的订阅有1元 100G/月。
+
+电报机器人签到可免费领取流量。
+
+---
+
+### 新狮云
+
+新狮云官网地址：[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)
+
+69.9 年付，折合每月 6 块不到。
+
+每月 500G 大流量。适合观看视频的用户。
+
+电报群不定时抽奖。
+
+---
+
+### 魔戒
+
+魔戒官网地址：[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)
+
+魔戒(mojie)是一个蛮有特色的网络加速器，按量计费不限时：
+
+只需购买流量即可使用，所有套餐都不限时，不限制使用人数，直至套餐流量用完，低至￥1.00/2G流量（可 1 元试用）。
+
+建议购买￥14.9/130G流量。
+
+---
+
+### 宝可梦星云
+
+宝可梦星云官网地址：[https://love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)
+
+最便宜的 6.9 元 60G/月。
+
+电报群每月有优惠码。
+
+提供免费共享苹果账号。
+
+---
+
+### 老百姓自己的机场
+
+老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)
+
+最便宜套餐 6 元 60G/月。
+
+工单响应及时。
+
+---
+
+### 好好云
+
+好好云官网地址：[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)
+
+最便宜套餐 10 元 100G/月。
+
+新疆特色套餐。
+
+客服响应及时。
+
+---
+
+### cloudfisher
+
+cloudfisher 官网地址：[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)
+
+最便宜套餐15 元 300G/月。
+
+**年付 60元，每月 148G 流量。折合每月 5 元。比较划算。**
+
+---
+
+### taishan
+
+Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)
+
+
+季付¥22.00元，每月 64G 流量。年付 64元。
+
+单买 10 元每月，128G 流量。
+
+- ✅设备数：不限制设备连接數量
+- ✅解锁：Netflix、HBO、Disney+、GPT
+- ✅线路：国内三线骨干网入口
+- ✅支持：工单技术支持+专属售后群
+- ✅付款：支付宝、微信、虚拟币
+
+- 💛优惠：年付68元
+- 💛限速：200M
+- 💛流量：每月64G
+- 💛流量重置：6元
+
+---
+
+
+
+
