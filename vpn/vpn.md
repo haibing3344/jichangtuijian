@@ -51,11 +51,15 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
 |[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
 |[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
-|[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 7天 10G | 12元 100G/月|✔支持|暂无|
-
-
-
-
+|[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
+|[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
+|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)| 无 | 6.9元 60G/月|❌不支持|[telegram](https://t.me/pokemon_love)|
+|[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
+|[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
+|[鱼云](#鱼云)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
+|[Taishan](#taishan)|[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
+|[新狮云](#新狮云)|[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)| 无 | 5.9元 500G/月（年付）|✔支持|[telegram](https://t.me/cloudlion_chat)|
+|[魔戒](#魔戒)|[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)| 无 | 1元 2G/不限时|✔支持|暂无|
 ## 简介
 
 ### 优信云
