@@ -53,7 +53,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
-|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)| 无 | 6.9元 60G/月|❌不支持|[telegram](https://t.me/pokemon_love)|
+|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
 |[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
 |[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
 |[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
