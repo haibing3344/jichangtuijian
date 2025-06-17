@@ -38,7 +38,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️NanoCloud
-      details: 最低1元 100G/月。<span style="color:red;">支持免费试用。</span>
+      details: 最低1元 100G/月。<span style="color:red;">618年付优惠码：618SALE20，有效期:6月17日--6月27日。</span>
       link: https://edu.uodoo.bid/auth/register?code=JMiOQDHf
       linkText: 前往注册
 
@@ -86,7 +86,7 @@ features:
       details: 9.90元 1000G/月。<span style="color:red;">年付 / 一次性套餐限时五折，不限新老用户，每人限用一次。结账时输入优惠码🎫：2025618。活动时间：6月14日 – 6月18日</span>
       link: https://my.cloudlion.me/#/register?code=rLyT9shh
       linkText: 前往注册
-      
+
     - title: ✈️耐思云
       details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
       link: https://m5.nc21.cc/#/register?code=olPZKZYK
