@@ -82,6 +82,11 @@ features:
       link: /vpn/baiyangxing.md
       linkText: 前往注册
 
+    - title: ✈️新狮云
+      details: 9.90元 1000G/月。<span style="color:red;">年付 / 一次性套餐限时五折，不限新老用户，每人限用一次。结账时输入优惠码🎫：2025618。活动时间：6月14日 – 6月18日</span>
+      link: https://my.cloudlion.me/#/register?code=rLyT9shh
+      linkText: 前往注册
+      
     - title: ✈️耐思云
       details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
       link: https://m5.nc21.cc/#/register?code=olPZKZYK
@@ -92,9 +97,9 @@ features:
       link: https://mojie.app/#/register?code=sSdtPtLo
       linkText: 前往注册
 
-    - title: ✈️泡芙云
-      details: 月付16元 100G流量。<span style="color:red;">7折优惠码：paofu2025 活动截止：2025年06月30日</span>
-      link: https://x.paofu.io/register?code=FB8MMghY
+    - title: ✈️肥猫云
+      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">618 8折优惠码：happy618。</span>
+      link: https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf
       linkText: 前往注册
 
     - title: ✈️三番云
@@ -157,19 +162,9 @@ features:
       link: /vpn/longmao.md
       linkText: 前往注册
 
-    - title: ✈️肥猫云
-      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">618 8折优惠码：happy618。</span>
-      link: https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf
-      linkText: 前往注册
-
     - title: ✈️疾风云
       details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。📅 活动截止日期：7月1日。</span>
       link: https://homes.tr25.cn?code=ReCm
-      linkText: 前往注册
-
-    - title: ✈️新狮云
-      details: 9.90元 1000G/月。<span style="color:red;">年付 / 一次性套餐限时五折，不限新老用户，每人限用一次。结账时输入优惠码🎫：2025618。活动时间：6月14日 – 6月18日</span>
-      link: https://my.cloudlion.me/#/register?code=rLyT9shh
       linkText: 前往注册
 
     - title: ✈️ANYWAY
@@ -186,6 +181,11 @@ features:
       details: 月付25元 150G流量。<span style="color:red;">24小時3G流量試用丨滿意後購買</span>
       link:  https://st1.hosbb.com/#/register?code=WM55GuJt
       linkText: 前往注册
+
+    - title: ✈️泡芙云
+      details: 月付16元 100G流量。<span style="color:red;">7折优惠码：paofu2025 活动截止：2025年06月30日</span>
+      link: https://x.paofu.io/register?code=FB8MMghY
+      linkText: 前往注册      
 
     - title: ✈️速云梯
       details: 月付19.9元 100G流量。<span style="color:red;">包年特惠7折优惠代码：YYY11 结束时间2025.07.1</span>
