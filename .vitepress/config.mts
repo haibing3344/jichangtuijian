@@ -20,18 +20,31 @@ export default defineConfig({
         text: '机场推荐',
         items: [
           { text: '机场汇总', link: '/vpn/vpn.md' },
+          { text: '优信云', link: '/vpn/vpn.md#优信云' },
           { text: '闪狐云', link: '/vpn/shanhuyun.md' },
           { text: 'TNT', link: '/vpn/tnt.md' },
           { text: '青云梯', link: '/vpn/qyt.md' },
           { text: '银河云', link: '/vpn/galaxycloud.md' },
           { text: 'Flybit', link: '/vpn/flybit.md' },
           { text: 'XX云', link: '/vpn/xxyun.md' },
+          { text: '肥猫云', link: '/vpn/vpn.md#肥猫云' },
+          { text: '魔戒', link: '/vpn/vpn.md#魔戒' },
+          { text: 'CyberGuard', link: '/vpn/vpn.md#cyberguard' },
+          { text: 'NanoCloud', link: '/vpn/vpn.md#nanocloud' },
+          { text: '新狮云', link: '/vpn/vpn.md#新狮云' },
+          { text: '宝可梦星云', link: '/vpn/vpn.md#宝可梦星云' },
+          { text: '好好云', link: '/vpn/vpn.md#好好云' },
+          { text: '老百姓自己的机场', link: '/vpn/vpn.md#老百姓自己的机场' },
+          { text: 'cloudfisher', link: '/vpn/vpn.md#cloudfisher' },
+          { text: 'taishan', link: '/vpn/vpn.md#taishan' },
+          { text: '网际快车', link: '/vpn/vpn.md#网际快车' },
           { text: '九霄云', link: '/vpn/jiuxiao.md' },
           { text: '大哥云', link: '/vpn/dgy.md' },
           { text: '好鸭云', link: '/vpn/duck.md' },
           { text: '灯塔Cloud', link: '/vpn/dengta.md' },
           { text: '白羊星', link: '/vpn/baiyangxing.md' },
-          { text: '龙猫云', link: '/vpn/longmao.md' }
+          { text: '龙猫云', link: '/vpn/longmao.md' },
+
         ]
       }
     ],

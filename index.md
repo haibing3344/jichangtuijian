@@ -77,9 +77,9 @@ features:
       link: https://inv02.galaxyaff.cc/register?aff=la8LavLb
       linkText: 前往注册
 
-    - title: ✈️白羊星
-      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">💰 年付专享八折优惠码：byx168（仅限年付使用）🕓 **活动截止：**6月20日</span>
-      link: /vpn/baiyangxing.md
+    - title: ✈️尔湾云
+      details: 13.90元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
+      link: https://erwan6.net/auth/register?code=BoObCd
       linkText: 前往注册
 
     - title: ✈️新狮云
@@ -87,9 +87,9 @@ features:
       link: https://my.cloudlion.me/#/register?code=rLyT9shh
       linkText: 前往注册
 
-    - title: ✈️耐思云
-      details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
-      link: https://m5.nc21.cc/#/register?code=olPZKZYK
+    - title: ✈️网际快车
+      details: 试用套餐6.8元 20G/不限时。16元100G不限时。<span style="color:red;">新用户体验劵：888888</span>
+      link: https://wjkc66.vip?c=APIXRJ
       linkText: 前往注册
 
     - title: ✈️魔戒
@@ -107,19 +107,9 @@ features:
       link: https://3fan.3f66.net:?code=NuDD6seh
       linkText: 前往注册
 
-    - title: ✈️尔湾云
-      details: 13.90元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
-      link: https://erwan6.net/auth/register?code=BoObCd
-      linkText: 前往注册
-
     - title: ✈️TaiShan Net
       details: 10.00元 128G/月。<span style="color:red;">年付84，折合7元每月。</span>
       link: https://jp.taishan.pro/register?code=45O5EGR9
-      linkText: 前往注册
-
-    - title: ✈️好鸭云
-      details: 最便宜的订阅有5元 50G/月(季付）。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;">端午75折优惠码：duck-75。</span>
-      link: /vpn/duck.md
       linkText: 前往注册
 
     - title: ✈️老百姓自己的机场
@@ -130,6 +120,21 @@ features:
     - title: ✈️好好云
       details: 10元 100G/月，<span style="color:red;">9折优惠码：qzx888</span>
       link: https://52hhy.com/register?code=EAkkeWkx
+      linkText: 前往注册
+
+    - title: ✈️疾风云
+      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。📅 活动截止日期：7月1日。</span>
+      link: https://homes.tr25.cn?code=ReCm
+      linkText: 前往注册
+
+    - title: ✈️好鸭云
+      details: 最便宜的订阅有5元 50G/月(季付）。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;">端午75折优惠码：duck-75。</span>
+      link: /vpn/duck.md
+      linkText: 前往注册
+
+    - title: ✈️耐思云
+      details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
+      link: https://m5.nc21.cc/#/register?code=olPZKZYK
       linkText: 前往注册
 
     - title: ✈️大哥云
@@ -162,9 +167,9 @@ features:
       link: /vpn/longmao.md
       linkText: 前往注册
 
-    - title: ✈️疾风云
-      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。📅 活动截止日期：7月1日。</span>
-      link: https://homes.tr25.cn?code=ReCm
+    - title: ✈️白羊星
+      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">💰 年付专享八折优惠码：byx168（仅限年付使用）🕓 **活动截止：**6月20日</span>
+      link: /vpn/baiyangxing.md
       linkText: 前往注册
 
     - title: ✈️ANYWAY

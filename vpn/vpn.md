@@ -41,25 +41,27 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv02.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
-|[老头vpn](#老头vpn)|[https://www.chattous.net](https://www.chattous.net/register?code=MAiRMtof)| 1月1G | 10元 100G/月|❌不支持|[telegram](https://t.me/OldManVPN)|
-|[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
-|[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/4yEURhWn.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
-|[大哥云](#大哥云)|[www.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
-|[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
-|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
-|[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
-|[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
-|[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
 |[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
+|[网际快车](#网际快车)|[https://wjkc66.vip](https://wjkc66.vip/?c=APIXRJ)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
+|[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/4yEURhWn.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
+|[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
 |[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
 |[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
 |[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
 |[Taishan](#taishan)|[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
 |[新狮云](#新狮云)|[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)| 无 | 5.9元 500G/月（年付）|✔支持|[telegram](https://t.me/cloudlion_chat)|
 |[魔戒](#魔戒)|[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
+|[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
+|[大哥云](#大哥云)|[www.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
+|[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
+|[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
+|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
+|[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
+|[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
+
 
 ## 简介
 
@@ -153,17 +155,15 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ---
 
-### 老头vpn
+### 网际快车
 
-老头vpn官网地址：[www.chattous.net](https://www.chattous.net/register?code=MAiRMtof)
+老头vpn官网地址：[wjkc66.vip](https://wjkc66.vip/?c=APIXRJ)
 
-邀请码：MAiRMtof
+1小时体验券：888888
 
-试用：1月 1G
+最便宜的订阅有6.8元，20G/不限时。
 
-最便宜的订阅有15.5元 150G/月。
-
-老头VPN 从2016年开始运营，资历非常老，期间一直保持高质量服务。全球华人公认的老牌国际加速服务厂商 高达2Gbps的单线接入能力。
+入口BGP，流量不过期，多国住宅IP，回国节点，新疆可用。除主流国家外，小众国家多，大多都是原生节点
 
 支持微信支付宝。
 
@@ -190,6 +190,169 @@ xxyun加速特性如下：
 - 无设备和ip限制。
 - 500Mbps速率，晚高峰不限速
 - 专业人工客服，快速响应
+
+---
+
+
+### cyberguard
+
+CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)
+
+邀请码：XsreC0T5
+
+套餐特点
+
+- 流量：100 GB
+- 速度：300 Mbps
+- 设备数：不限制
+
+使用说明
+
+1. 每月 100G 流量
+2. 每月自动重置流量
+3. **<span style="color: red;">💛IEPL企业级内网专线无视墙敏感时期</span>**
+4. **<span style="color: red;">💛解锁Netflix/Hbo/Disney+/Dazn等流媒体</span>**
+5. 最高 300M 速率可用，高速稳定
+6. 不限制设备数量，请合理使用
+7. 99% 服务可用率保障，稳定可靠
+---
+
+### nanocloud
+
+NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)
+
+最便宜的订阅有1元 100G/月。
+
+电报机器人签到可免费领取流量。
+
+---
+
+### 新狮云
+
+新狮云官网地址：[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)
+
+69.9 年付，折合每月 6 块不到。
+
+每月 500G 大流量。适合观看视频的用户。
+
+电报群不定时抽奖。
+
+---
+
+### 肥猫云
+
+肥猫云官网地址：[https://fchb1188.fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)
+
+邀请码：X1vZd2wf
+
+最便宜的套餐有6元 60G/月（年付）。
+
+- 每月60GB流量
+（60G流量适合普通网页浏览,偶尔刷刷短视频用户使用）
+
+- IEPL专线传输，不限速，所有节点x1倍率
+
+- Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体全解锁，秒开4K，支持8K
+
+- 支持ChatGPT、Claude等AI tools
+
+- 高性能Trojan协议，不限制设备登录数
+
+---
+
+### 魔戒
+
+魔戒官网地址：[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)
+
+魔戒(mojie)是一个蛮有特色的网络加速器，按量计费不限时：
+
+只需购买流量即可使用，所有套餐都不限时，不限制使用人数，直至套餐流量用完，低至￥1.00/2G流量（可 1 元试用）。
+
+建议购买￥14.9/130G流量。
+
+---
+
+### 宝可梦星云
+
+宝可梦星云官网地址：[https://love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)
+
+最便宜的 6.9 元 60G/月。
+
+电报群每月有优惠码。
+
+提供免费共享苹果账号。
+
+---
+
+### TNT
+
+TNT官网地址：[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)
+
+邀请码：GtjJVgml
+
+试用：无
+
+最低 10元60g/月(季付)
+
+- 全IPLC专线，不限速
+- 原生IP解锁流媒体
+- 解锁 Chatgpt，Tiktok
+- 高效客服响应
+- 不限制客户端
+
+---
+
+### 老百姓自己的机场
+
+老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)
+
+最便宜套餐 6 元 60G/月。
+
+工单响应及时。
+
+---
+
+### 好好云
+
+好好云官网地址：[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)
+
+最便宜套餐 10 元 100G/月。
+
+新疆特色套餐。
+
+客服响应及时。
+
+---
+
+### cloudfisher
+
+cloudfisher 官网地址：[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)
+
+最便宜套餐15 元 300G/月。
+
+**年付 60元，每月 148G 流量。折合每月 5 元。比较划算。**
+
+---
+
+### taishan
+
+Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)
+
+
+季付¥22.00元，每月 64G 流量。年付 64元。
+
+单买 10 元每月，128G 流量。
+
+- ✅设备数：不限制设备连接數量
+- ✅解锁：Netflix、HBO、Disney+、GPT
+- ✅线路：国内三线骨干网入口
+- ✅支持：工单技术支持+专属售后群
+- ✅付款：支付宝、微信、虚拟币
+
+- 💛优惠：年付68元
+- 💛限速：200M
+- 💛流量：每月64G
+- 💛流量重置：6元
 
 ---
 
@@ -251,24 +414,6 @@ xxyun加速特性如下：
 ---
 
 
-### TNT
-
-TNT官网地址：[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)
-
-邀请码：GtjJVgml
-
-试用：无
-
-最低 10元60g/月(季付)
-
-- 全IPLC专线，不限速
-- 原生IP解锁流媒体
-- 解锁 Chatgpt，Tiktok
-- 高效客服响应
-- 不限制客户端
-
----
-
 ### xxai
 
 xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
@@ -280,7 +425,6 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
 
 ---
-
 
 
 ### 白羊星
@@ -316,128 +460,6 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 
 ---
 
-### cyberguard
-
-CyberGuard官网地址：[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)
-
-邀请码：XsreC0T5
-
-套餐特点
-
-- 流量：100 GB
-- 速度：300 Mbps
-- 设备数：不限制
-
-使用说明
-
-1. 每月 100G 流量
-2. 每月自动重置流量
-3. **<span style="color: red;">💛IEPL企业级内网专线无视墙敏感时期</span>**
-4. **<span style="color: red;">💛解锁Netflix/Hbo/Disney+/Dazn等流媒体</span>**
-5. 最高 300M 速率可用，高速稳定
-6. 不限制设备数量，请合理使用
-7. 99% 服务可用率保障，稳定可靠
----
-
-### nanocloud
-
-NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)
-
-最便宜的订阅有1元 100G/月。
-
-电报机器人签到可免费领取流量。
-
----
-
-### 新狮云
-
-新狮云官网地址：[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)
-
-69.9 年付，折合每月 6 块不到。
-
-每月 500G 大流量。适合观看视频的用户。
-
-电报群不定时抽奖。
-
----
-
-### 魔戒
-
-魔戒官网地址：[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)
-
-魔戒(mojie)是一个蛮有特色的网络加速器，按量计费不限时：
-
-只需购买流量即可使用，所有套餐都不限时，不限制使用人数，直至套餐流量用完，低至￥1.00/2G流量（可 1 元试用）。
-
-建议购买￥14.9/130G流量。
-
----
-
-### 宝可梦星云
-
-宝可梦星云官网地址：[https://love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)
-
-最便宜的 6.9 元 60G/月。
-
-电报群每月有优惠码。
-
-提供免费共享苹果账号。
-
----
-
-### 老百姓自己的机场
-
-老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)
-
-最便宜套餐 6 元 60G/月。
-
-工单响应及时。
-
----
-
-### 好好云
-
-好好云官网地址：[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)
-
-最便宜套餐 10 元 100G/月。
-
-新疆特色套餐。
-
-客服响应及时。
-
----
-
-### cloudfisher
-
-cloudfisher 官网地址：[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)
-
-最便宜套餐15 元 300G/月。
-
-**年付 60元，每月 148G 流量。折合每月 5 元。比较划算。**
-
----
-
-### taishan
-
-Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)
-
-
-季付¥22.00元，每月 64G 流量。年付 64元。
-
-单买 10 元每月，128G 流量。
-
-- ✅设备数：不限制设备连接數量
-- ✅解锁：Netflix、HBO、Disney+、GPT
-- ✅线路：国内三线骨干网入口
-- ✅支持：工单技术支持+专属售后群
-- ✅付款：支付宝、微信、虚拟币
-
-- 💛优惠：年付68元
-- 💛限速：200M
-- 💛流量：每月64G
-- 💛流量重置：6元
-
----
 
 
 
