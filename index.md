@@ -47,9 +47,9 @@ features:
       link: https://www.cyberguard.best/#/register?code=XsreC0T5
       linkText: 前往注册
 
-    - title: ✈️V扬帆云
+    - title: ✈️扬帆云
       details: 18元 100G/月。<span style="color:red;">全球接入节点。年付7折优惠码：618。</span>
-      link: https://yftg1.net/register?code=0WEO6ulk
+      link: https://suola.link/0
       linkText: 前往注册
 
     - title: ✈️xxyun

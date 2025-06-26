@@ -19,9 +19,10 @@ export default defineConfig({
       {
         text: '机场推荐',
         items: [
-          { text: '机场汇总', link: '/vpn/vpn.md' },
+          { text: '机场汇总', link: '/vpn/vpn.md#汇总' },
           { text: '优信云', link: '/vpn/vpn.md#优信云' },
           { text: '闪狐云', link: '/vpn/shanhuyun.md' },
+          { text: '扬帆云', link: '/vpn/vpn.md#扬帆云' },
           { text: 'TNT', link: '/vpn/tnt.md' },
           { text: '青云梯', link: '/vpn/qyt.md' },
           { text: '银河云', link: '/vpn/galaxycloud.md' },
