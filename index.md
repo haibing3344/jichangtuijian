@@ -43,8 +43,13 @@ features:
       linkText: 前往注册
 
     - title: ✈️CyberGuard
-      details: 18.8元 100G/月。<span style="color:red;">解锁流媒体，不限设备数。</span>
+      details: 15.99元 100G/月。<span style="color:red;">解锁流媒体，不限设备数。</span>
       link: https://www.cyberguard.best/#/register?code=XsreC0T5
+      linkText: 前往注册
+
+    - title: ✈️V扬帆云
+      details: 18元 100G/月。<span style="color:red;">全球接入节点。年付7折优惠码：618。</span>
+      link: https://yftg1.net/register?code=0WEO6ulk
       linkText: 前往注册
 
     - title: ✈️xxyun

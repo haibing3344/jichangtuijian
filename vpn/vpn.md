@@ -39,6 +39,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[优信云](#优信云)|[https://www.youxin66.net](https://www.youxin66.net/#/register?code=JRtE5uIV)| 无 |15.99元 100G/月|❌不支持|无|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
+|[扬帆云](#扬帆云)|[yftg1.net](https://suola.link/0)| 无 |15.99 元100g/月|❌不支持|暂无|
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv02.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
@@ -126,6 +127,31 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
 
 ---
+
+### 扬帆云
+
+扬帆云官网地址： [yftg1.net](https://suola.link/0)
+
+年付7折优惠券：618
+
+最低15.99元，100G/月。老板拥有多家机场，节点多，速度快。
+
+套餐详情
+
+- 流量：100 GB
+- 速度：200 Mbps
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. 全球接入节点
+6. 解锁流媒体
+7. 可用等级一节点
+8. 年费套餐7折优惠码：618
 
 ### 青云梯
 
