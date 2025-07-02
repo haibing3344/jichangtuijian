@@ -16,7 +16,7 @@ tags:
 
 ## 青云梯官网地址
 
-[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)
+[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)
 
 ## 青云梯机场简介
 

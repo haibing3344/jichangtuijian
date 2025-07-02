@@ -16,7 +16,7 @@ tags:
 
 ## 银河云官网地址
 
-[ivt02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)
+[ivt02.galaxyaff.cc](https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb)
 
 ## 银河云机场简介
 

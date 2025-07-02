@@ -40,7 +40,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
 |[扬帆云](#扬帆云)|[yftg1.net](https://suola.link/0)| 无 |15.99 元100g/月|❌不支持|暂无|
-|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
+|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
 |[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
@@ -155,7 +155,7 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 ### 青云梯
 
-青云梯官网地址：[ivt01.qytvipaff.cc](https://ivt01.qytaff.cc/register?aff=dTvJ05CM)
+青云梯官网地址：[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)
 
 邀请码：dTvJ05CM
 
