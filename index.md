@@ -93,7 +93,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️网际快车
-      details: 试用套餐6.8元 20G/不限时。16元100G/不限时。回国家宽，新疆可用，游戏专用节点，不限时流量，不限设备.<span style="color:red;">新用户体验劵：888888</span>
+      details: 试用套餐6.8元 20G/不限时。16元100G/不限时。<span style="color:red;">回国家宽，新疆可用，游戏专用节点，不限时流量，不限设备.新用户体验劵：888888</span>
       link: https://wjkc66.vip?c=APIXRJ
       linkText: 前往注册
 
