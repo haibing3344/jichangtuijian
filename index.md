@@ -79,7 +79,7 @@ features:
 
     - title: ✈️银河云
       details: 8元 50G/月，年付96元。<span style="color:red;">618 85折优惠码：wuyi85。截止6月30号</span>
-      link: https://inv02.galaxyaff.cc/register?aff=la8LavLb
+      link: https://inv03.galaxyaff.cc/register?aff=la8LavLb
       linkText: 前往注册
 
     - title: ✈️尔湾云
