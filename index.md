@@ -87,11 +87,6 @@ features:
       link: https://erwan6.net/auth/register?code=BoObCd
       linkText: 前往注册
 
-    - title: ✈️新狮云
-      details: 9.90元 1000G/月。<span style="color:red;"> </span>
-      link: https://my.cloudlion.me/#/register?code=rLyT9shh
-      linkText: 前往注册
-
     - title: ✈️网际快车
       details: 试用套餐6.8元 20G/不限时。16元100G/不限时。<span style="color:red;">回国家宽，新疆可用，游戏专用节点，不限时流量，不限设备.新用户体验劵：888888</span>
       link: https://wjkc66.vip?c=APIXRJ
@@ -131,6 +126,11 @@ features:
       details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。📅 活动截止日期：7月1日。</span>
       link: https://homes.tr25.cn?code=ReCm
       linkText: 前往注册
+
+    - title: ✈️新狮云
+      details: 9.90元 1000G/月。<span style="color:red;"> </span>
+      link: https://my.cloudlion.me/#/register?code=rLyT9shh
+      linkText: 前往注册      
 
     - title: ✈️好鸭云
       details: 最便宜的订阅有5元 50G/月(季付）。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;"> </span>
