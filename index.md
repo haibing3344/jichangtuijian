@@ -38,7 +38,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️NanoCloud
-      details: 最低1元 100G/月。<span style="color:red;">618年付优惠码：618SALE20，有效期:6月17日--6月27日。</span>
+      details: <span style="color:red;">最低1元 100G/月。不限速，不限设备数。</span>
       link: https://edu.uodoo.bid/auth/register?code=JMiOQDHf
       linkText: 前往注册
 
@@ -53,7 +53,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️xxyun
-      details: 最便宜的订阅有8.88元 100G/月。<span style="color:red;">618 85折优惠码：xxyun618</span>
+      details: 最便宜的订阅有8.88元 100G/月。<span style="color:red;">新用户85折优惠码：xxyun85</span>
       link: /vpn/xxyun.md
       linkText: 前往注册
 
@@ -73,12 +73,12 @@ features:
       linkText: 前往注册
 
     - title: ✈️青云梯
-      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;">618 85折优惠码：wuyi85。截止6月30号</span>
+      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;"> </span>
       link: /vpn/qyt.md
       linkText: 前往注册
 
     - title: ✈️银河云
-      details: 8元 50G/月，年付96元。<span style="color:red;">618 85折优惠码：wuyi85。截止6月30号</span>
+      details: 8元 50G/月，年付96元。<span style="color:red;"> </span>
       link: https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb
       linkText: 前往注册
 
@@ -88,7 +88,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️新狮云
-      details: 9.90元 1000G/月。<span style="color:red;">年付 / 一次性套餐限时五折，不限新老用户，每人限用一次。结账时输入优惠码🎫：2025618。活动时间：6月14日 – 6月18日</span>
+      details: 9.90元 1000G/月。<span style="color:red;"> </span>
       link: https://my.cloudlion.me/#/register?code=rLyT9shh
       linkText: 前往注册
 
@@ -133,7 +133,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️好鸭云
-      details: 最便宜的订阅有5元 50G/月(季付）。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;">端午75折优惠码：duck-75。</span>
+      details: 最便宜的订阅有5元 50G/月(季付）。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;"> </span>
       link: /vpn/duck.md
       linkText: 前往注册
 
@@ -143,7 +143,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️大哥云
-      details: 近期新上季付轻量包，专门为用量小的用户设计，19.9元/月。<span style="color:red;">8 折优惠码:dgy618，截止：6 月 25日</span>
+      details: 近期新上季付轻量包，专门为用量小的用户设计，19.9元/月。<span style="color:red;"> </span>
       link: /vpn/dgy.md
       linkText: 前往注册
 
@@ -158,7 +158,7 @@ features:
       linkText: 前往注册  
 
     - title: ✈️灯塔cloud
-      details: 最便宜的订阅有10元 100G/月(半年付)。<span style="color:red;">85折优惠券:858585，时间截止 6月30号</span>
+      details: 最便宜的订阅有10元 100G/月(半年付)。<span style="color:red;"> </span>
       link: /vpn/dengta.md
       linkText: 前往注册
 
@@ -167,18 +167,18 @@ features:
       link: /vpn/jiuxiao.md
       linkText: 前往注册
 
-    - title: ✈️龙猫元
+    - title: ✈️龙猫云
       details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">618月付85折优惠码：spring85。</span>
       link: /vpn/longmao.md
       linkText: 前往注册
 
     - title: ✈️白羊星
-      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">💰 年付专享八折优惠码：byx168（仅限年付使用）🕓 **活动截止：**6月20日</span>
+      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;"> </span>
       link: /vpn/baiyangxing.md
       linkText: 前往注册
 
     - title: ✈️ANYWAY
-      details: 最低6元 60G/月。<span style="color:red;">🎉 9折端午优惠码：DW90。</span>
+      details: 最低6元 60G/月。<span style="color:red;"> </span>
       link: https://www.anyway.best/#/register?code=NM9asaGL
       linkText: 前往注册
 
@@ -193,12 +193,12 @@ features:
       linkText: 前往注册
 
     - title: ✈️泡芙云
-      details: 月付16元 100G流量。<span style="color:red;">7折优惠码：paofu2025 活动截止：2025年06月30日</span>
+      details: 月付16元 100G流量。<span style="color:red;"> </span>
       link: https://x.paofu.io/register?code=FB8MMghY
       linkText: 前往注册      
 
     - title: ✈️速云梯
-      details: 月付19.9元 100G流量。<span style="color:red;">包年特惠7折优惠代码：YYY11 结束时间2025.07.1</span>
+      details: 月付19.9元 100G流量。<span style="color:red;"> </span>
       link: https://suyunti981.xyz/auth/register?code=37Wm
       linkText: 前往注册
 
