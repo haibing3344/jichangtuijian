@@ -32,15 +32,16 @@ shadowrocket把并没有上线国区应用商店，首先需要先切换到我�
 
 ::: warning 以下是公益共享 Apple ID 网站推荐：
     
--   [https://free.iosapp.icu](https://free.iosapp.icu/)
--   [https://idfree.top](https://idfree.top/)
--   [https://idshare.me](https://idshare.me/)
+-   [https://idshare001.me/applego.htmlu](https://idshare001.me/applego.html)
+-   [https://id001.me/applego.html](https://id001.me/applego.html)
+
+
 -   如共享账号无法使用，建议自行购买外区带有 Shadowrocket 的账号，**以后可以永久使用**。
     
     推荐商家：
     
     -   [水果商店](https://applego.win)
-    -   [小火箭吧](https://xiaohuojian8.com/aff/5305.html)
+
 :::
 请注意一定要按步骤在App Store登录，切勿在手机“设置”中登录。
 

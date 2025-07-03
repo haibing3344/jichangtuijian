@@ -40,7 +40,7 @@ tags:
 
 点击`订阅`，把你的订阅链接粘贴到输入框中，点击`导入`。
 
-如果没有订阅链接可以参考这篇文章：[便宜好用的翻墙机场推荐评测](https://www.ermao.net/posts/vpn)
+如果没有订阅链接可以参考这篇文章：[便宜好用的翻墙机场推荐评测](https://jichangtuijian.uk)
 
 ![alt text](images/windows安装clash/image-1.png)
 
