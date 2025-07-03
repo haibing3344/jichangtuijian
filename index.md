@@ -43,7 +43,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️CyberGuard
-      details: 15.99元 100G/月。<span style="color:red;">解锁流媒体，不限设备数。</span>
+      details: 18.00元 100G/月。<span style="color:red;">IEPL企业级内网专线无视墙敏感时期,解锁流媒体，不限设备数。</span>
       link: https://www.cyberguard.best/#/register?code=XsreC0T5
       linkText: 前往注册
 
