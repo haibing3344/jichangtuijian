@@ -193,11 +193,11 @@ flybit官网地址：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?
 
 xxyun官网地址：[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)
 
-邀请码：4yEURhWn
+邀请码：JAKFEwKc
 
 试用：1天 10G
 
-xx云加速95折优惠码，只能使用一次：`xxyun.xyz`
+xx云加速85折优惠码，只能使用一次：`xxyun85`
 
 最便宜的订阅有8.89元 100G/月。
 
@@ -247,17 +247,6 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ---
 
-### 新狮云
-
-新狮云官网地址：[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)
-
-69.9 年付，折合每月 6 块不到。
-
-每月 500G 大流量。适合观看视频的用户。
-
-电报群不定时抽奖。
-
----
 
 ### 肥猫云
 
@@ -376,16 +365,6 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 
 ---
 
-### 灯塔cloud
-
-灯塔cloud官网地址：[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)
-
-最便宜的订阅有10元 100G/月(半年付)。
-
-灯塔cloud机场客服响应速度很快，态度非常好，节点质量也很棒。灯塔Cloud团队会定期更新节点列表，确保节点的稳定性和可用性。同时，节点会根据网络状况动态调整，提供最优的连接体验。
-
----
-
 
 ### 龙猫云
 
@@ -407,44 +386,6 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 
 ---
 
-### 大哥云
-
-大哥云官网地址：[www.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)
-
-邀请码：SSN0WQ9
-
-最便宜的订阅有19.9元 100G/月。
-
-大哥云机场5年老品牌，可以免费试用，支持奈飞等多家流媒体解锁，支持YOUTUBE 8K流畅观看支持IPLC线路。
-
----
-
-### 好鸭云
-
-好鸭云官网地址：[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)
-
-邀请码：pg3Mnaf7
-
-最便宜的订阅有12元 100G/月。
-
-节点非常稳定，老板态度好，客服也很热情，支持支付宝。
-
-最重要的是会随套餐**送Emby影视服务**(一个看高清电影、电视剧、番剧的站点)！MisakaF、aca替代方案。喜欢看剧的同学可以试试。
-
----
-
-
-### xxai
-
-xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
-
-邀请码：m5bQzL7N
-
-最便宜的订阅有16.9元 100G/月。
-
-节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
-
----
 
 
 ### 白羊星
@@ -458,25 +399,6 @@ xxai官网地址：[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)
 最便宜的订阅有12元 100G/月。
 
 白羊星是一家新兴机场，节点质量还不错，支持按流量购买，支持支付宝、微信、USDT支付。
-
----
-
-
-### 九霄云
-
-九霄云官网地址：[九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=9q1YCAyq)
-
-邀请码：9q1YCAyq
-
-优惠码：`9xiaoyyds` 9折优惠
-
-试用：8G 2天
-
-最便宜的订阅有16.8元 80G/月。
-
-服务好，回购率高，基本上是5分钟以内客服就回复了.
-
-同时性价比高，支持支付宝、微信支付。
 
 ---
 
