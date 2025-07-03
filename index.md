@@ -123,15 +123,9 @@ features:
       linkText: 前往注册
 
     - title: ✈️疾风云
-      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。📅 活动截止日期：7月1日。</span>
+      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。</span>
       link: https://homes.tr25.cn?code=ReCm
       linkText: 前往注册
-
-    - title: ✈️小蜜蜂
-      details: 8元 60G/月（年付），热门小众节点（巴西，阿根廷，泰国），<span style="color:red;">限时月付7折优惠码：xmfxmf7。</span>
-      link: https://inva.xmfaff.cc/register?aff=v9VkBGdc
-      linkText: 前往注册  
-
 
     - title: ✈️龙猫云
       details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">618月付85折优惠码：spring85。</span>
