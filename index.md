@@ -127,45 +127,11 @@ features:
       link: https://homes.tr25.cn?code=ReCm
       linkText: 前往注册
 
-    - title: ✈️新狮云
-      details: 9.90元 1000G/月。<span style="color:red;"> </span>
-      link: https://my.cloudlion.me/#/register?code=rLyT9shh
-      linkText: 前往注册      
-
-    - title: ✈️好鸭云
-      details: 最便宜的订阅有5元 50G/月(季付）。新用户首次购买8折优惠码：NiceDuck。<span style="color:red;"> </span>
-      link: /vpn/duck.md
-      linkText: 前往注册
-
-    - title: ✈️耐思云
-      details: 最低12元 50G/月，<span style="color:red;">年付送ChatGPT账号。</span>
-      link: https://m5.nc21.cc/#/register?code=olPZKZYK
-      linkText: 前往注册
-
-    - title: ✈️大哥云
-      details: 近期新上季付轻量包，专门为用量小的用户设计，19.9元/月。<span style="color:red;"> </span>
-      link: /vpn/dgy.md
-      linkText: 前往注册
-
-    - title: ✈️三文鱼
-      details: 6.9元/30G/月。<span style="color:red;">长期8.5折优惠码：swywl85。</span>
-      link: https://dll.swywl.com/register?code=fJl23be8
-      linkText: 前往注册
-
     - title: ✈️小蜜蜂
       details: 8元 60G/月（年付），热门小众节点（巴西，阿根廷，泰国），<span style="color:red;">限时月付7折优惠码：xmfxmf7。</span>
       link: https://inva.xmfaff.cc/register?aff=v9VkBGdc
       linkText: 前往注册  
 
-    - title: ✈️灯塔cloud
-      details: 最便宜的订阅有10元 100G/月(半年付)。<span style="color:red;"> </span>
-      link: /vpn/dengta.md
-      linkText: 前往注册
-
-    - title: ✈️九霄云
-      details: 16.8元 80G/月，轻量级机场、价格超低。
-      link: /vpn/jiuxiao.md
-      linkText: 前往注册
 
     - title: ✈️龙猫云
       details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">618月付85折优惠码：spring85。</span>
@@ -176,32 +142,6 @@ features:
       details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;"> </span>
       link: /vpn/baiyangxing.md
       linkText: 前往注册
-
-    - title: ✈️ANYWAY
-      details: 最低6元 60G/月。<span style="color:red;"> </span>
-      link: https://www.anyway.best/#/register?code=NM9asaGL
-      linkText: 前往注册
-
-    - title: ✈️次元链接
-      details: 月付18.8元，自用机场，稳定使用5年。<span style="color:red;">8.8元试用一周。</span>
-      link: https://次元.net/auth/register?code=kJVs
-      linkText: 前往注册
-
-    - title: ✈️SSRdog
-      details: 月付25元 150G流量。<span style="color:red;">24小時3G流量試用丨滿意後購買</span>
-      link:  https://st1.hosbb.com/#/register?code=WM55GuJt
-      linkText: 前往注册
-
-    - title: ✈️泡芙云
-      details: 月付16元 100G流量。<span style="color:red;"> </span>
-      link: https://x.paofu.io/register?code=FB8MMghY
-      linkText: 前往注册      
-
-    - title: ✈️速云梯
-      details: 月付19.9元 100G流量。<span style="color:red;"> </span>
-      link: https://suyunti981.xyz/auth/register?code=37Wm
-      linkText: 前往注册
-
 
 ---
 
