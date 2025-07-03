@@ -52,15 +52,9 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
 |[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
 |[Taishan](#taishan)|[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
-|[新狮云](#新狮云)|[https://my.cloudlion.me](https://my.cloudlion.me/#/register?code=rLyT9shh)| 无 | 5.9元 500G/月（年付）|✔支持|[telegram](https://t.me/cloudlion_chat)|
 |[魔戒](#魔戒)|[https://mojie.uk](https://mojie.app/#/register?code=sSdtPtLo)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
 |[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
-|[大哥云](#大哥云)|[www.dgywzc.com](https://www.dgywzc.com/#/register?code=JSSN0WQ9)| 无 |19.9元 100G/月|❌不支持|[telegram](https://t.me/dageyun)|
-|[好鸭云](#好鸭云)|[my.niceduck.io](https://my.niceduck.io/register?code=pg3Mnaf7)| 无 |12元 100G/月|❌不支持|[telegram](https://t.me/niceduck_group)|
-|[灯塔cloud](#灯塔cloud)|[https://dengta.com](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=b7tH6tIn)| 无 |10元 100G/月|❌不支持|[telegram](https://t.me/+xBRgJGSBcNdlNWJl)|
-|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=m5bQzL7N)| 无 |16.9元 100G/月|✔支持|[telegram](https://t.me/xxai_official)|
-|[九霄云](#九霄云)|[https://九九九.吉祥结.中国](https://shop.starpro.one/#/register?code=ZXzjv7oD)| 2天 6G |16.8元 80G/月|✔支持|[QQ群](https://qm.qq.com/q/EzY3dgKhIA)|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
 
 
