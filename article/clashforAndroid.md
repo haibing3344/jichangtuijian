@@ -81,4 +81,4 @@ tags:
 
 任何问题都可以留言提问，知无不言。
 
-如果当前内容过时，可以访问我的博网站：[https://jichangtuijian.uk](https://jichangtuijian.uk)，其中内容将会保持更新。
+如果当前内容过时，可以访问我的网站：[https://jichangtuijian.uk](https://jichangtuijian.uk)，其中内容将会保持更新。
