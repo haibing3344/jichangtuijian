@@ -114,7 +114,7 @@ features:
 
     - title: ✈️老百姓自己的机场
       details: 6元 60G/月，<span style="color:red;">提供1G免费试用。</span>
-      link: https://老百姓自己的机场.com/#/register?code=lfZ9QIT8
+      link: https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY
       linkText: 前往注册
 
     - title: ✈️好好云

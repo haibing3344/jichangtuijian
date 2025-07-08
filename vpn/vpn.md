@@ -48,7 +48,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
-|[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
+|[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
 |[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
 |[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
 |[Taishan](#taishan)|[https://jp.taishan.pro](https://jp.taishan.pro/register?code=45O5EGR9)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
@@ -313,7 +313,7 @@ TNT官网地址：[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff
 
 ### 老百姓自己的机场
 
-老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://老百姓自己的机场.com/#/register?code=lfZ9QIT8)
+老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY)
 
 最便宜套餐 6 元 60G/月。
 
