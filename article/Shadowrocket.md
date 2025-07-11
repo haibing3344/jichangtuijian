@@ -1,6 +1,6 @@
 ---
 title: 🚀 Shadowrocket(iOS小火箭) 新手使用教程
-createTime: 2025/01/03 18:18:11
+createTime: 2025/07/11 18:18:11
 description: 苹果手机、苹果电脑、iOS设备、Mac设备都可以使用Shadowrocket进行科学上网。教新手朋友们如何安装并使用Shadowrocket。
 tags:
     - Shadowrocket
@@ -12,7 +12,7 @@ tags:
     - VPN
 ---
 
-# hadowrocket(iOS小火箭) 新手使用教程
+# shadowrocket(iOS小火箭) 新手使用教程
 
 苹果手机、苹果电脑、iOS设备、Mac设备都可以使用Shadowrocket进行科学上网。教新手朋友们如何安装并使用Shadowrocket。
 
