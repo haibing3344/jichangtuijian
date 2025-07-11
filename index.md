@@ -62,8 +62,8 @@ features:
       link: https://love.52pokemon.cc/register?code=56ERkkxp
       linkText: 前往注册
 
-    - title: ✈️鱼云（Cloud Fisher）
-      details: 9元 120G/月，<span style="color:red;">年付60一年，折合5元/月。</span>
+    - title: ✈️渔云（Cloud Fisher）
+      details: 9元 120G/月，<span style="color:red;">年付60一年，折合5元/月。83 折优惠码：1year_CloudFisher 截止 7 月 15日</span>
       link: https://cloudfisher.one/web/#/login?code=Xrd2NWzo
       linkText: 前往注册
 
