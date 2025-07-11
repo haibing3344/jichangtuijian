@@ -40,7 +40,7 @@ shadowrocket把并没有上线国区应用商店，首先需要先切换到我�
     
     推荐商家：
     
-    -   [水果商店](https://applego.win)
+    -   [水果商店](https://appleshop.win)
 
 :::
 请注意一定要按步骤在App Store登录，切勿在手机“设置”中登录。
