@@ -48,7 +48,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️扬帆云
-      details: 18元 100G/月。<span style="color:red;">全球接入节点。年付7折优惠码：618。</span>
+      details: 11.20元 100G/月。<span style="color:red;">年中优惠，全场 7 折。</span>
       link: https://suola.link/0
       linkText: 前往注册
 
