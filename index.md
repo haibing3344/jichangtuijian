@@ -83,7 +83,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️尔湾云
-      details: 13.90元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
+      details: 年付低至10.00元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
       link: https://erwan6.net/auth/register?code=BoObCd
       linkText: 前往注册
 
@@ -123,7 +123,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️疾风云
-      details: 13.99元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。</span>
+      details: 年付低至10.00元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。</span>
       link: https://homes.tr25.cn?code=ReCm
       linkText: 前往注册
 
