@@ -48,6 +48,9 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[CyberGuard](#cyberguard)|[https://cyberguard.best](https://www.cyberguard.best/#/register?code=XsreC0T5)| 无 | 18元 100G/月|✔支持|暂无|
+|[尔湾云](#尔湾云)|[https://erwan6.net](https://erwan6.net/auth/register?code=BoObCd)| 无 | 13.99元 100G/月|❌不支持|暂无|
+|[疾风云](#疾风云)|[https://jf499.pw](https://homes.tr25.cn?code=ReCm)| 无 | 12元 100G/月|❌不支持|暂无|
+|[三番云](#三番云)|[3fan.3f66.net](https://3fan.3f66.net:?code=NuDD6seh)| 无 | 15.99元 100G/月|❌不支持|暂无|
 |[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
 |[好好云](#好好云)|[https://www.52hhy.com](https://52hhy.com/register?code=EAkkeWkx)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
 |[鱼云](#cloudfisher)|[https://cloudfisher.one](https://cloudfisher.one/web/#/login?code=Xrd2NWzo)| 无 | 5元 148G/月（年付）|✔支持|暂无|
@@ -248,6 +251,91 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ---
 
+### 尔湾云
+
+尔湾云官网地址：[https://erwan6.net](https://erwan6.net/auth/register?code=BoObCd)
+
+
+- **<span style="color: red;">7折年付优惠码，购买时请输入 ss12</span>**
+
+最便宜的套餐有13元 50G/月。
+
+    
+套餐特点
+
+- 流量：50 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+1. 50GB 使用流量，所有节点x1倍率，晚高峰不限速
+2. 1个 在线客户端
+3. 最高50M速率
+4. 工单客服支持
+5. 支持 Clash、SSR、V2ray节点
+6. 国内中转节点
+7. 解锁流媒体
+8. 可用入门版节点
+
+---
+
+### 疾风云
+
+疾风云官网地址：[https://jf499.pw](https://homes.tr25.cn?code=ReCm)
+
+- **<span style="color: red;">年费7折优惠-jf2025: 半年9折优惠-JF888</span>**
+
+最便宜的套餐有12元 100G/月。
+
+套餐特点
+
+- 流量：50 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+
+1. 50GB 使用流量，所有节点x1倍率，晚高峰不限速
+2. 1个 在线客户端
+3. 最高60M速率
+4. 工单客服支持
+5. 支持 Clash、SSR、V2ray节点
+6. 国内中转节点
+7. 解锁流媒体
+8. 可用入门版节点
+
+---
+
+### 三番云
+
+三番云官网地址：[https://3fan.3f66.net](https://3fan.3f66.net:?code=NuDD6seh)
+
+- **<span style="color: red;">👑年费七折优惠码：3fan666</span>**
+
+最便宜的套餐有15元 100G/月。
+
+套餐特点
+
+- 流量：100 GB
+- 速度：300Mbps
+- 设备数：2
+
+使用说明
+
+1. 🔋 流量：100GB（自动重置）
+2. ⚡ 速度：最高 300Mbps 带宽
+3. 📱 设备数：最多 2 台设备在线
+4. 🌐 多国节点：10个国家高速接入，随心切换
+5. 🌍 全球高速稳定网络 | 流畅无忧
+6. 📽️ 全流媒体解锁：Netflix、Disney+、Hulu等
+7. 🎮 AI & 游戏优化：ChatGPT无障碍，畅玩游戏
+8. 💎 IPLC专线：低延迟，无丢包
+9. ☎️ 专属客服：在线售后，贴心保障
+10. 📌 适合日常上网、高清流媒体播放的用户
+
+---
 
 ### 肥猫云
 
