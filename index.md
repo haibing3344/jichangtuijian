@@ -137,10 +137,6 @@ features:
       link: /vpn/baiyangxing.md
       linkText: 前往注册
 
-    - title: ✈️新狮云
-      details: 12.9元 1000G/月.<span style="color:red;"> 量大管饱。 </span>
-      link: https://my.cloudlion.me/#/register?code=hUuk650e
-      linkText: 前往注册
 ---
 
 <script setup>
