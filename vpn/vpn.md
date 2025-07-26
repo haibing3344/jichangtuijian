@@ -43,7 +43,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
-|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
+|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://love.521pokemon.com/register?code=56ERkkxp)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
 |[网际快车](#网际快车)|[https://wjkc66.vip](https://wjkc66.vip/?c=APIXRJ)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
 |[xxyun](#xxyun)|[https://xxyun.de](https://xxyun.de/JAKFEwKc.html)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 |[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
@@ -372,7 +372,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://edu.uodoo.bid/auth/register?
 
 ### 宝可梦星云
 
-宝可梦星云官网地址：[https://love.52pokemon.cc](https://love.52pokemon.cc/register?code=56ERkkxp)
+宝可梦星云官网地址：[https://love.52pokemon.cc](https://love.521pokemon.com/register?code=56ERkkxp)
 
 最便宜的 6.9 元 60G/月。
 
