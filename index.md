@@ -137,6 +137,11 @@ features:
       link: /vpn/baiyangxing.md
       linkText: 前往注册
 
+    - title: ✈️淘气兔
+      details: 7.8元 100G/月，<span style="color:red;">全中转机场。</span>
+      link: http://a.suola.link/taoqitu
+      linkText: 前往注册
+
 ---
 
 <script setup>

@@ -1,7 +1,7 @@
 ---
-title: ✈️机场推荐【XSUS】 - 高性价比、老牌机场
+title: ✈️机场推荐【淘气兔】 - 高性价比、老牌机场
 createTime: 2025/04/01 07:11:45
-permalink: /article/bc6o8acd/
+
 tags:
   - 科学上网
   - VPN
@@ -9,35 +9,35 @@ tags:
   - 推荐
   - 评测
   - 便宜机场
-  - XSUS
+  - 淘气兔
 ---
-# 机场推荐【XSUS】 - 高性价比、老牌机场
+# 机场推荐【淘气兔】 - 高性价比、老牌机场
 
-xsus机场，最低 8元 168G/月。老牌机场、稳定可靠、高性价比。
+淘气兔机场，最低 7.8元 100G/月。老牌机场、稳定可靠、高性价比。
 
-xsus官网地址：[https://xs-us.xyz](https://xs-us.xyz/register?code=Gu0VzNX9)
+淘气兔官网地址：[https://taoqitu.uk](https://taoqitu.uk)
 
 <!-- more -->
 
-## XSUS 官网地址
+## 淘气兔 官网地址
 
-[https://xs-us.xyz](https://xs-us.xyz/register?code=Gu0VzNX9)
+[https://taoqitu.uk](https://taoqitu.uk)
 
-## XSUS 机场简介
+## 淘气兔 机场简介
 
-最便宜的订阅有8元 168G/月。
+最便宜的订阅有7.8元 100G/月。
 
-XSUS 机场是一家老牌机场，价格实惠，节点较多，节点质量也非常高，速度快，支持 Netflix、ChatGPT。
+淘气兔机场是一家老牌机场，价格实惠，节点较多，节点质量也非常高，速度快，支持 Netflix、ChatGPT。
 
 客服响应及时，强烈推荐这个机场。
 
-![XSUS 机场价格](images/机场推荐XSUS/image.png)
+![淘气兔 机场价格](images/淘气兔-购买订阅价格.jpg)
 
-## XSUS 机场测试
+## 淘气兔 机场测试
 
-![XSUS 机场测试1](images/机场推荐XSUS/image-1.png)
+![淘气兔 机场测试1](images/机场推荐XSUS/image-1.png)
 
-![XSUS 机场测试2](images/机场推荐XSUS/image-2.png)
+![淘气兔 机场测试2](images/机场推荐XSUS/image-2.png)
 
 ## 机场汇总
 
