@@ -59,7 +59,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://hbhb11822.lmvipaff05.cc/register?aff=n3wi2NwS)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
-
+|[淘气兔](#淘气兔)|[https://taoqitu.pro](https://a.suola.link/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
 
 
 ## 简介
@@ -491,3 +491,19 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 
 ---
 
+### 淘气兔
+
+淘气兔官网地址：[taoqitu.pro](https://a.suola.link/taoqitu)
+
+年付低至7.4元/月。168G流量。全中转机场，新疆无法使用！请勿下单！
+
+- 年付特惠-168G/月(年付)
+- 全中转1倍率(15-30个设备链接)
+- IEPL专线均为2倍率
+- 支持ChatGPT/奈飞/迪士尼等
+- 无退款服务，请悉知
+- 请自行配置订阅信息
+- 如发现恶意公开订阅立即封号
+- 加入TG群组 @taoqitu_chat
+
+---
