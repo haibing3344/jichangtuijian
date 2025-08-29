@@ -33,7 +33,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️TNT
-      details: 10元/月。新机场、IPLC专线。<span style="color:red;">618 8折优惠码：Crazy618。</span>
+      details: 10元/月。新机场、IPLC专线。<span style="color:red;">七夕特惠全场8折：Love999</span>
       link: /vpn/tnt.md
       linkText: 前往注册
 
@@ -128,7 +128,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️龙猫云
-      details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">618月付85折优惠码：spring85。</span>
+      details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">月付/季度/半年 享受85折优惠，优惠码：kaixue85。</span>
       link: /vpn/longmao.md
       linkText: 前往注册
 
