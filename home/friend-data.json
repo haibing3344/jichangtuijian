@@ -46,5 +46,11 @@
     "desc": "简单且强大的网络工具",
     "link": "https://stashapp.uk",
     "icon": "/assets/stash.png"
+  },
+    {
+    "title": "ClashMetaForAndroid",
+    "desc": "ClashMetaForAndroid是一个基于ClashMeta内核的Android平台代理工具",
+    "link": "https://clashmeta.bid",
+    "icon": "https://clashmeta.bid/assets/logo.webp"
   }
 ]
