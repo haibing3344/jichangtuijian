@@ -41,6 +41,7 @@ export default defineConfig({
           { text: '白羊星', link: '/vpn/baiyangxing.md' },
           { text: '龙猫云', link: '/vpn/longmao.md' },
           { text: '淘气兔', link: '/vpn/vpn.md#淘气兔' },
+          { text: '良心云', link: '/vpn/vpn.md#良心云' },
 
         ]
       }
