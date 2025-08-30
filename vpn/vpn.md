@@ -61,6 +61,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
 |[淘气兔](#淘气兔)|[https://taoqitu.pro](https://a.suola.link/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
 |[良心云](#良心云)|[https://良心云.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)|
+|[一分机场](#一分机场)|[https://一分机场.com](https://a.suola.link/1fen)|无|2元 100G/月|支持| [telegram](https://t.me/+6CEphysfeNZlM2Zk)| 
 
 
 ## 简介
@@ -523,5 +524,26 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 - 🎬 流媒体全面解锁
 - 🫷 无限制使用行为，无存储节点日志，使用更安心
 - 🔒 军工级TLS1.3加密，保护你的隐私安全
+
+---
+
+### 一分机场（注册需翻墙）
+
+一分机场官网地址：[https://一分机场.com](https://a.suola.link/1fen) （需翻墙）
+
+
+最低月付2元100G，6元月付1T。19.88元/1T不限时。
+
+- ⚡️提供三网高质量线路
+
+- 🚀线路带宽最高速度20000Mbps
+
+- 🔒全线路安全加密,保护隐私安全！
+
+- ⏰每月流量100GB,每30天自动重置流量！
+
+- 🎥个人使用不限设备数,解锁Netflix影视
+
+- 🈲不允许滥用分享,每日最大套餐20%的使用量，一经发现封号处理
 
 ---
