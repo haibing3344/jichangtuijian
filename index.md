@@ -59,7 +59,7 @@ features:
 
     - title: ✈️宝可梦星云
       details: 6.9元 100G/月。<span style="color:red;">新用户首单：9折优惠码：9999。</span>
-      link: https://love.521pokemon.com/register?code=56ERkkxp
+      link: https://a.suola.link/pokemon
       linkText: 前往注册
 
     - title: ✈️渔云（Cloud Fisher）
