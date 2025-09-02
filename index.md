@@ -152,6 +152,11 @@ features:
       link: http://a.suola.link/1fen
       linkText: 前往注册
 
+    - title: ✈️酷酷云
+      details: 新开专线机场，20元/月，100G/月。<span style="color:red;">新用户9折优惠码：KUKU2025</span>
+      link: https://a.suola.link/kukuyun
+      linkText: 前往注册
+
 ---
 
 <script setup>
