@@ -149,7 +149,7 @@ features:
 
     - title: ✈️一分机场
       details: 2元 100G/月，<span style="color:red;">6元 1T/月。</span>
-      link: http://a.suola.link/1fen
+      link: http://a.suola.link/liangxinyun
       linkText: 前往注册
 
     - title: ✈️酷酷云

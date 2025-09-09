@@ -52,5 +52,17 @@
     "desc": "ClashMetaForAndroid是一个基于ClashMeta内核的Android平台代理工具",
     "link": "https://clashmeta.bid",
     "icon": "https://clashmeta.bid/assets/logo.webp"
+  },
+  {
+    "title": "ClashMi",
+    "desc": "基于ClashMeta的跨平台代理客户端",
+    "link": "https://clashmi.uk",
+    "icon": "/assets/clashmi-logo.webp"
+  },
+  {
+    "title": "Flclash",
+    "desc": "基于ClashMeta内核的多平台代理客户端软件",
+    "link": "https://flclash.men",
+    "icon": "/assets/flclash-logo.webp"
   }
 ]

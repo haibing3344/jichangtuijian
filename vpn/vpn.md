@@ -61,7 +61,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[白羊星](#白羊星)|[https://baiyangxing.com](https://baiyangxing.com/#/register?code=I6IGk5n6)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
 |[淘气兔](#淘气兔)|[https://taoqitu.pro](https://a.suola.link/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
 |[良心云](#良心云)|[https://良心云.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)|
-|[一分机场](#一分机场)|[https://一分机场.com](https://a.suola.link/1fen)|无|2元 100G/月|支持| [telegram](https://t.me/+6CEphysfeNZlM2Zk)| 
+|[一分机场](#一分机场)|[https://一分机场.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)| 
 
 
 ## 简介
@@ -527,9 +527,9 @@ Taishan 官网地址：[https://jp.taishan.pro](https://jp.taishan.pro/register?
 
 ---
 
-### 一分机场（注册需翻墙）
+### 一分机场
 
-一分机场官网地址：[https://一分机场.com](https://a.suola.link/1fen) （需翻墙）
+一分机场官网地址：[https://一分机场.com](https://a.suola.link/liangxinyun) 
 
 
 最低月付2元100G，6元月付1T。19.88元/1T不限时。
