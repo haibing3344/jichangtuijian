@@ -36,10 +36,10 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
-|[优信云](#优信云)|[https://www.youxin66.net](https://www.youxin66.net/#/register?code=JRtE5uIV)| 无 |15.99元 100G/月|❌不支持|无|
+|[扬帆云](#扬帆云)|[yftg1.net](https://a.suola.link/yfy)| 无 |15.99 元100g/月|❌不支持|暂无|
+|[优信云](#优信云)|[https://www.youxin66.net](https://a.suola.link/youxinyun)| 无 |15.99元 100G/月|❌不支持|无|
 |[闪狐云](#闪狐云)|[flashfox.cc](https://inv02.ffaff.cc/register?aff=WQApz2pv)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
-|[扬帆云](#扬帆云)|[yftg1.net](https://suola.link/0)| 无 |15.99 元100g/月|❌不支持|暂无|
 |[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
 |[银河云](#银河云)|[inv02.galaxyaff.cc](https://inv03.galaxyaff.cc/register?aff=la8LavLb)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
 |[Nanocloud](#nanocloud)|[https://uodoo.bid](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
