@@ -33,12 +33,12 @@ features:
       linkText: 前往注册
 
     - title: ✈️闪狐云
-      details: 最便宜的订阅有20元 120G/月。<span style="color:red;">不限速，不限设备数。618 8折优惠码：flashfox618</span>
+      details: 最便宜的订阅有20元 120G/月。<span style="color:red;">不限速，不限设备数。</span>
       link: /vpn/shanhuyun.md
       linkText: 前往注册
 
     - title: ✈️TNT
-      details: 10元/月。新机场、IPLC专线。<span style="color:red;">七夕特惠全场8折：Love999</span>
+      details: 10元/月。解锁了Tiktok、ChatGPT、流媒体。<span style="color:red;">新人特惠85折优惠码：TNT85 </span>
       link: /vpn/tnt.md
       linkText: 前往注册
 
@@ -63,7 +63,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️渔云（Cloud Fisher）
-      details: 9元 120G/月，<span style="color:red;">年付60一年，折合5元/月。83 折优惠码：1year_CloudFisher 截止 7 月 15日</span>
+      details: 9元 120G/月，<span style="color:red;">年付60一年，折合5元/月。</span>
       link: https://a.suola.link/fisher
       linkText: 前往注册
 
@@ -98,7 +98,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️肥猫云
-      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">618 8折优惠码：happy618。</span>
+      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">72/年，每月60G，适合轻度用户。</span>
       link: https://a.suola.link/feimao
       linkText: 前往注册
 
