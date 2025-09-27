@@ -133,7 +133,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️白羊星
-      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;"> </span>
+      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">🎁 国庆年付85折优惠码：byx815 </span>
       link: /vpn/baiyangxing.md
       linkText: 前往注册
 
