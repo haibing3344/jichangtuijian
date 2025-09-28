@@ -143,7 +143,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️良心云
-      details: 2元 100G/月，<span style="color:red;">6元 1T/月。</span>
+      details: 2元 100G/月，<span style="color:red;">6元 1T/月。2025年国庆七折优惠码：LXY</span>
       link: http://a.suola.link/liangxinyun
       linkText: 前往注册
 
