@@ -73,7 +73,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️青云梯
-      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;"> </span>
+      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;">优惠券码：10180，活动时间：即日起 ～ 2025年11月1日 23:59 </span>
       link: /vpn/qyt.md
       linkText: 前往注册
 
