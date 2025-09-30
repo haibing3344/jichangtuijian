@@ -38,7 +38,8 @@ features:
       linkText: 前往注册
 
     - title: ✈️TNT
-      details: 10元/月。解锁了Tiktok、ChatGPT、流媒体。<span style="color:red;">新人特惠85折优惠码：TNT85 </span>
+      details: 10元/月。解锁了Tiktok、ChatGPT、流媒体。<span style="color:red;">新人特惠85折优惠码：TNT85;国庆8折优惠码：2510815，截止10月底。
+ </span>
       link: /vpn/tnt.md
       linkText: 前往注册
 
@@ -130,6 +131,11 @@ features:
     - title: ✈️龙猫云
       details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">月付/季度/半年 享受85折优惠，优惠码：kaixue85。</span>
       link: /vpn/longmao.md
+      linkText: 前往注册
+
+    - title: ✈️小旋风
+      details: 每月仅需8元，年付 60G/月。<span style="color:red;">Trojan协议，企业级IPLC专线，3网优化，智能负载均衡</span>
+      link: https://a.suola.link/xxf
       linkText: 前往注册
 
     - title: ✈️白羊星

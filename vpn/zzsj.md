@@ -14,13 +14,13 @@ tags:
 # ✈️机场推荐【掌中世界】 - 7天免费试用
 掌中世界机场有7天免费试用、24小时客服在线、一键加速、YouTube、三网5G加持、iOS专享福利、Netflix热门剧集解锁、全家设备通用
 
-掌中世界官网地址：[https://www.zzsjjsq.com](https://www.zzsjjsq.com/user/register?code=ZRQQcjiC)
+掌中世界官网地址：[https://www.zzsjjsq.com](https://a.suola.link/node1)
 
 <!-- more -->
 
 ## 掌中世界官网地址
 
-[https://www.zzsjjsq.com](https://www.zzsjjsq.com/user/register?code=ZRQQcjiC)
+[https://www.zzsjjsq.com](https://a.suola.link/node1)
 
 ## 掌中世界机场简介
 
