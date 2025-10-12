@@ -46,7 +46,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://a.suola.link/pokemon)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
 |[网际快车](#网际快车)|[https://wjkc66.vip](https://a.suola.link/wjkc)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
 |[xxyun](#xxyun)|[https://xxyun.de](https://a.suola.link/xxyun)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
+|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
 |[CyberGuard](#cyberguard)|[https://cyberguard.best](https://a.suola.link/cyberguard)| 无 | 18元 100G/月|✔支持|暂无|
 |[尔湾云](#尔湾云)|[https://erwan6.net](https://a.suola.link/erwan)| 无 | 13.99元 100G/月|❌不支持|暂无|
 |[疾风云](#疾风云)|[https://jf499.pw](https://a.suola.link/jifeng)| 无 | 12元 100G/月|❌不支持|暂无|
@@ -63,6 +63,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[淘气兔](#淘气兔)|[https://taoqitu.pro](https://a.suola.link/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
 |[良心云](#良心云)|[https://良心云.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)|
 |[一分机场](#一分机场)|[https://一分机场.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)| 
+|[CCYZ机场](#ccyz机场)|[https://ccyz.com](https://a.suola.link/ccyz)|无|15元 100G/月|支持| [telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 
 
 ## 简介
@@ -387,7 +388,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### TNT
 
-TNT官网地址：[https://haibing822.tntvipaff.cc](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)
+TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
 
 邀请码：GtjJVgml
 
@@ -569,3 +570,22 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 - 🈲不允许滥用分享,每日最大套餐20%的使用量，一经发现封号处理
 
 ---
+
+### CCYZ机场
+
+XXYZ机场官网地址：[https://ccyz.org](https://a.suola.link/ccyz)
+
+最便宜订阅：15元 100G/月。
+
+新客95折优惠券：`ccyz`
+
+- Lite套餐-100G     15元/每月      100G/月       IEPL专线
+- Pro套餐-200G     25元/每月       200G/月      IEPL专线
+
+特性如下
+
+- BGP+IEPL专线
+- 超高性价比，节点质量高
+- 晚高峰不限速，稳定高效。
+- 流媒体完美解锁（包括Netflix , Disney+, HBO等）
+- 全天候在线，高效客服响应
