@@ -38,8 +38,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️TNT
-      details: 10元/月。解锁了Tiktok、ChatGPT、流媒体。<span style="color:red;">新人特惠85折优惠码：TNT85;国庆8折优惠码：2510815，截止10月底。
- </span>
+      details: 10元/月。解锁了Tiktok、ChatGPT、流媒体。<span style="color:red;">新人特惠85折优惠码：TNT85;国庆8折优惠码：2510815，截止10月底。</span>
       link: /vpn/tnt.md
       linkText: 前往注册
 
@@ -54,7 +53,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️ccyz
-      details: 最便宜的订阅有15.00元 150G/月，注册免费试用12小时.<span style="color:red;">新用户95折优惠码：ccyz</span>
+      details: 最便宜的订阅有15.00元 150G/月，注册免费试用12小时.<span style="color:red;"> 新用户95折优惠码：ccyz。</span>
       link: /vpn/ccyz.md
       linkText: 前往注册
 
