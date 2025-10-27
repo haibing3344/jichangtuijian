@@ -43,6 +43,7 @@ export default defineConfig({
           { text: '淘气兔', link: '/vpn/vpn.md#淘气兔' },
           { text: '良心云', link: '/vpn/vpn.md#良心云' },
           { text: '一分机场', link: '/vpn/1fen.md' },
+          { text: 'CCYZ机场', link: '/vpn/ccyz.md' },
         ]
       }
     ],
