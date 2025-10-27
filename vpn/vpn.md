@@ -63,7 +63,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 |[淘气兔](#淘气兔)|[https://taoqitu.pro](https://a.suola.link/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
 |[良心云](#良心云)|[https://良心云.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)|
 |[一分机场](#一分机场)|[https://一分机场.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)| 
-|[CCYZ机场](#ccyz机场)|[https://ccyz.com](https://a.suola.link/ccyz)|无|15元 100G/月|支持| [telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[CCYZ机场](#ccyz机场)|[https://ccyz.com](https://a.suola.link/ccyz)|无|15元 150G/月|支持| [telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 
 
 ## 简介
@@ -575,12 +575,13 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 XXYZ机场官网地址：[https://ccyz.org](https://a.suola.link/ccyz)
 
-最便宜订阅：15元 100G/月。
+最便宜订阅：15元 150G/月。
 
 新客95折优惠券：`ccyz`
 
-- Lite套餐-100G     15元/每月      100G/月       IEPL专线
-- Pro套餐-200G     25元/每月       200G/月      IEPL专线
+- Lite专线套餐-100G     15元/每月      150G/月       IEPL专线
+- Pro专线套餐-200G     25元/每月       280G/月      IEPL专线
+- Max专线套餐-200G     45元/每月       550G/月      IEPL专线
 
 特性如下
 
