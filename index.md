@@ -53,6 +53,11 @@ features:
       link: https://a.suola.link/cyberguard
       linkText: 前往注册
 
+    - title: ✈️ccyz
+      details: 最便宜的订阅有15.00元 150G/月，注册免费试用12小时.<span style="color:red;">新用户95折优惠码：ccyz</span>
+      link: https://ccyz.org/6IN40sF3.html
+      linkText: 前往注册
+
     - title: ✈️xxyun
       details: 最便宜的订阅有8.88元 100G/月。<span style="color:red;">新用户85折优惠码：xxyun85</span>
       link: /vpn/xxyun.md
