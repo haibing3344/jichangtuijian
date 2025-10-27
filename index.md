@@ -55,7 +55,7 @@ features:
 
     - title: ✈️ccyz
       details: 最便宜的订阅有15.00元 150G/月，注册免费试用12小时.<span style="color:red;">新用户95折优惠码：ccyz</span>
-      link: https://ccyz.org/6IN40sF3.html
+      link: /vpn/ccyz.md
       linkText: 前往注册
 
     - title: ✈️xxyun
