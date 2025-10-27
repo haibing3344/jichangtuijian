@@ -32,7 +32,7 @@ tags:
 4. 流媒体完美解锁（包括Netflix , Disney+, HBO等）
 5. 全天候在线，高效客服响应
 
-![CCYZ机场套餐价格](/assets/ccyz.png "CCYZ机场套餐价格")
+![CCYZ机场套餐价格](/assets/ccyz.jpg "CCYZ机场套餐价格")
 
 ## CCYZ机场套餐价格
 
