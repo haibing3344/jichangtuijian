@@ -103,7 +103,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️肥猫云
-      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">72/年，每月60G，适合轻度用户。</span>
+      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">72/年，每月60G，适合轻度用户。双十一8折优惠码：fat111180</span>
       link: https://a.suola.link/feimao
       linkText: 前往注册
 
@@ -133,7 +133,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️龙猫云
-      details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">月付/季度/半年 享受85折优惠，优惠码：kaixue85。</span>
+      details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">双十一月付/季度/半年 享受85折优惠，优惠码：lm1185。</span>
       link: /vpn/longmao.md
       linkText: 前往注册
 
