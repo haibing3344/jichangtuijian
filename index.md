@@ -167,6 +167,10 @@ features:
       link: https://a.suola.link/kukuyun
       linkText: 前往注册
 
+    - title: ✈️光速云
+      details: 17元 110G/月，全节点无倍率，中转机场，Trojan协议。解锁流媒体、AI。
+      link: https://a.suola.link/guangsu
+      linkText: 前往注册
 ---
 
 <script setup>
