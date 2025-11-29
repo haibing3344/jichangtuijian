@@ -132,6 +132,11 @@ features:
       link: https://a.suola.link/jifeng
       linkText: 前往注册
 
+    - title: ✈️极连云
+      details: 12元 100G/月。<span style="color:red;">8折优惠码：jly888。</span>
+      link: https://a.suola.link/jilianyun
+      linkText: 前往注册
+
     - title: ✈️龙猫云
       details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">双十一月付/季度/半年 享受85折优惠，优惠码：lm1185。</span>
       link: /vpn/longmao.md
