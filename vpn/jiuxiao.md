@@ -18,13 +18,13 @@ tags:
 
 九霄云机场，16.8元 80G/月，轻量级机场、价格超低。
 
-九霄云官网地址：[https://shop.starpro.one](https://shop.starpro.one/#/register?code=9q1YCAyq)
+九霄云官网地址：[https://shop.starpro.one](https://c.jichangs.com/node1)
 
 <!-- more -->
 
 ## 九霄云官网地址
 
-[https://shop.starpro.one](https://shop.starpro.one/#/register?code=9q1YCAyq)
+[https://shop.starpro.one](https://c.jichangs.com/node1)
 
 ## 九霄云机场简介
 

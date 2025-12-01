@@ -16,17 +16,17 @@ tags:
 
 阿达西机场是一个新机场，价格最优，节点通畅，适合长期使用。阿达西机场的节点质量非常好，速度快，延迟低，适合各种网络需求。
 
-阿达西机场官网地址：[https://adaxi.net](https://adaxi.net/?r=81168)
+阿达西机场官网地址：[https://adaxi.net](https://c.jichangs.com/node1)
 
 <!-- more -->
 
 ## 阿达西机场官网地址
 
-[https://adaxi.net](https://adaxi.net/?r=81168)
+[https://adaxi.net](https://c.jichangs.com/node1)
 
 ## 阿达西机场简介
 
-[阿达西机场](https://adaxi.net/?r=81168)是一个新机场，价格最优，节点通畅，适合长期使用。[阿达西机场](https://adaxi.net/?r=81168)的节点质量非常好，速度快，延迟低，适合各种网络需求。
+[阿达西机场](https://c.jichangs.com/node1)是一个新机场，价格最优，节点通畅，适合长期使用。[阿达西机场](https://c.jichangs.com/node1)的节点质量非常好，速度快，延迟低，适合各种网络需求。
 
 ![阿达西机场简介](images/机场推荐阿达西/image.png)
 

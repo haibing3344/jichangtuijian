@@ -15,7 +15,7 @@ tags:
 
 ## 加速啦官网地址
 
-[https://jiasu.la](https://jiasu.la/?r=81186)
+[https://jiasu.la](https://c.jichangs.com/node1)
 
 ## 加速啦机场简介
 

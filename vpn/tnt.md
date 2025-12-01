@@ -15,13 +15,13 @@ tags:
 
 TNT机场，近期新上季付轻量包，专门为用量小的用户设计，10元/月。新机场、IPLC专线。
 
-TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
+TNT官网地址：[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)
 
 <!-- more -->
 
 ## TNT官网地址
 
-TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
+TNT官网地址：[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)
 
 ## TNT 机场简介
 

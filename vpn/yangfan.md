@@ -15,13 +15,13 @@ tags:
 
 扬帆云机场，近期新上季付轻量包，专门为用量小的用户设计，15元/月。新机场、IPLC专线。
 
-扬帆云官网地址：[https://yangfanhome.com](https://a.suola.link/yfy)
+扬帆云官网地址：[https://yangfanhome.com](https://c.jichangs.com/yfy)
 
 <!-- more -->
 
 ## 扬帆云官网地址
 
-扬帆云官网地址：[https://yangfanhome.com](https://a.suola.link/yfy)
+扬帆云官网地址：[https://yangfanhome.com](https://c.jichangs.com/yfy)
 
 ## 扬帆云 机场简介
 

@@ -19,13 +19,13 @@ tags:
 
 冲上云霄优惠码：`81177` 购买套餐后使用此优惠码可以获得 20G 流量。
 
-冲上云霄官网地址：[https://cpdd.one](https://cpdd.one/?r=81177)
+冲上云霄官网地址：[https://cpdd.one](https://c.jichangs.com/node1)
 
 <!-- more -->
 
 ### 冲上云霄机场简介
 
-[冲上云霄](https://cpdd.one/?r=81177)优惠码：`81177` 购买套餐后使用可以获得 20G 流量。
+[冲上云霄](https://c.jichangs.com/node1)优惠码：`81177` 购买套餐后使用可以获得 20G 流量。
 
 ![冲上云霄优惠码](images/机场推荐冲上云霄/image.png)
 

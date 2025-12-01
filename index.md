@@ -24,12 +24,12 @@ features:
 
     - title: ✈️扬帆云
       details: 11.20元 100G/月。<span style="color:red;">年中优惠，全场 7 折。优惠码：618</span>
-      link: https://a.suola.link/yfy
+      link: https://c.jichangs.com/yfy
       linkText: 前往注册
 
     - title: ✈️优信云
       details: IEPL/IPLC 高速专线，￥15.00/月。<span style="color:red;">年付7折优惠码：618</span>
-      link: https://a.suola.link/youxinyun
+      link: https://c.jichangs.com/youxinyun
       linkText: 前往注册
 
     - title: ✈️闪狐云
@@ -44,12 +44,12 @@ features:
 
     - title: ✈️NanoCloud
       details: 最低1元 100G/月。不限速，不限设备数。<span style="color:red;">国庆年付8折优惠码：GQ2025OFF80</span>
-      link: https://a.suola.link/nanocloud
+      link: https://c.jichangs.com/nanocloud
       linkText: 前往注册
 
     - title: ✈️CyberGuard
       details: 18.00元 100G/月。<span style="color:red;">IEPL企业级内网专线无视墙敏感时期,解锁流媒体，不限设备数。</span>
-      link: https://a.suola.link/cyberguard
+      link: https://c.jichangs.com/cyberguard
       linkText: 前往注册
 
     - title: ✈️ccyz
@@ -64,12 +64,12 @@ features:
 
     - title: ✈️宝可梦星云
       details: 6.9元 100G/月。<span style="color:red;">新用户首单：9折优惠码：9999。</span>
-      link: https://a.suola.link/pokemon
+      link: https://c.jichangs.com/pokemon
       linkText: 前往注册
 
     - title: ✈️渔云（Cloud Fisher）
       details: 9元 120G/月，<span style="color:red;">年付60一年，折合5元/月。</span>
-      link: https://a.suola.link/fisher
+      link: https://c.jichangs.com/fisher
       linkText: 前往注册
 
     - title: ✈️Flybit
@@ -84,57 +84,57 @@ features:
 
     - title: ✈️银河云
       details: 8元 50G/月，年付96元。<span style="color:red;"> 双十一8折优惠券：1180，即日起 ～ 2025年11月 30 日 23:59</span>
-      link: https://a.suola.link/galaxy
+      link: https://c.jichangs.com/galaxy
       linkText: 前往注册
 
     - title: ✈️尔湾云
       details: 年付低至10.00元 50G/月。<span style="color:red;">👏 7折年付优惠码，购买时请输入 ss12。</span>
-      link: https://a.suola.link/erwan
+      link: https://c.jichangs.com/erwan
       linkText: 前往注册
 
     - title: ✈️网际快车
       details: 试用套餐6.8元 20G/不限时。16元100G/不限时。<span style="color:red;">回国家宽，新疆可用，游戏专用节点，不限时流量，不限设备.新用户体验劵：888888</span>
-      link: https://a.suola.link/wjkc
+      link: https://c.jichangs.com/wjkc
       linkText: 前往注册
 
     - title: ✈️魔戒
       details: 最低14.90元 130G。可先买1元2G流量测试。<span style="color:red;">不限时套餐，流量用完再买。</span>
-      link: https://a.suola.link/mojie
+      link: https://c.jichangs.com/mojie
       linkText: 前往注册
 
     - title: ✈️肥猫云
       details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">72/年，每月60G，适合轻度用户。双十一8折优惠码：fat111180</span>
-      link: https://a.suola.link/feimao
+      link: https://c.jichangs.com/feimao
       linkText: 前往注册
 
     - title: ✈️三番云
       details: 最低15.88元 100G/月。解锁流媒体、AI。<span style="color:red;">👑年费七折优惠码：3fan666。</span>
-      link: https://a.suola.link/3fan
+      link: https://c.jichangs.com/3fan
       linkText: 前往注册
 
     - title: ✈️TaiShan Net
       details: 10.00元 128G/月。<span style="color:red;">年付84，折合7元每月。</span>
-      link: https://a.suola.link/taishan
+      link: https://c.jichangs.com/taishan
       linkText: 前往注册
 
     - title: ✈️老百姓自己的机场
       details: 6元 60G/月，<span style="color:red;">提供1G免费试用。</span>
-      link: https://a.suola.link/laobaixing
+      link: https://c.jichangs.com/laobaixing
       linkText: 前往注册
 
     - title: ✈️好好云
       details: 10元 100G/月，<span style="color:red;">9折优惠码：qzx888</span>
-      link: https://a.suola.link/hhy
+      link: https://c.jichangs.com/hhy
       linkText: 前往注册
 
     - title: ✈️疾风云
       details: 年付低至10.00元 50G/月。<span style="color:red;">年费7折优惠-jf2025:半年9折优惠-JF888。</span>
-      link: https://a.suola.link/jifeng
+      link: https://c.jichangs.com/jifeng
       linkText: 前往注册
 
     - title: ✈️极连云
       details: 12元 100G/月。<span style="color:red;">8折优惠码：jly888。</span>
-      link: https://a.suola.link/jilianyun
+      link: https://c.jichangs.com/jilianyun
       linkText: 前往注册
 
     - title: ✈️龙猫云
@@ -144,7 +144,7 @@ features:
 
     - title: ✈️小旋风
       details: 每月仅需8元，年付 60G/月。<span style="color:red;">Trojan协议，企业级IPLC专线，3网优化，智能负载均衡</span>
-      link: https://a.suola.link/xxf
+      link: https://c.jichangs.com/xxf
       linkText: 前往注册
 
     - title: ✈️白羊星
@@ -169,12 +169,12 @@ features:
 
     - title: ✈️酷酷云
       details: 新开专线机场，20元/月，100G/月。<span style="color:red;">新用户9折优惠码：KUKU2025</span>
-      link: https://a.suola.link/kukuyun
+      link: https://c.jichangs.com/kukuyun
       linkText: 前往注册
 
     - title: ✈️光速云
       details: 17元 110G/月，全节点无倍率，中转机场，Trojan协议。解锁流媒体、AI。
-      link: https://a.suola.link/guangsu
+      link: https://c.jichangs.com/guangsu
       linkText: 前往注册
 ---
 

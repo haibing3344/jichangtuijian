@@ -15,13 +15,13 @@ tags:
 
 一分机场机场，2元 100G/月，6元 1T/月。19.88元1T不限时套餐，高性价比、IEPL接口线路。
 
-一分机场官网地址：[一分机场.com](https://a.suola.link/liangxinyun) 
+一分机场官网地址：[一分机场.com](https://c.jichangs.com/liangxinyun) 
 
 <!-- more -->
 
 ## 一分机场机场官网地址
 
-[一分机场.com](https://a.suola.link/liangxinyun)  
+[一分机场.com](https://c.jichangs.com/liangxinyun)  
 
 ## 一分机场机场简介
 

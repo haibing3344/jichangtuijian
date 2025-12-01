@@ -36,34 +36,34 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|群|
 |---|---|---|--|---|---|
-|[扬帆云](#扬帆云)|[yftg1.net](https://a.suola.link/yfy)| 无 |15.99 元100g/月|❌不支持|暂无|
-|[优信云](#优信云)|[https://www.youxin66.net](https://a.suola.link/youxinyun)| 无 |15.99元 100G/月|❌不支持|无|
-|[闪狐云](#闪狐云)|[flashfox.cc](https://a.suola.link/shy)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
-|[flybit](#flybit)|[goflybit.pages.dev](https://a.suola.link/flybit)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
-|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://a.suola.link/qyt)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
-|[银河云](#银河云)|[inv02.galaxyaff.cc](https://a.suola.link/galaxy)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
-|[Nanocloud](#nanocloud)|[https://uodoo.bid](https://a.suola.link/nanocloud)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
-|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://a.suola.link/pokemon)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
-|[网际快车](#网际快车)|[https://wjkc66.vip](https://a.suola.link/wjkc)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
-|[xxyun](#xxyun)|[https://xxyun.de](https://a.suola.link/xxyun)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
-|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
-|[CyberGuard](#cyberguard)|[https://cyberguard.best](https://a.suola.link/cyberguard)| 无 | 18元 100G/月|✔支持|暂无|
-|[尔湾云](#尔湾云)|[https://erwan6.net](https://a.suola.link/erwan)| 无 | 13.99元 100G/月|❌不支持|暂无|
-|[疾风云](#疾风云)|[https://jf499.pw](https://a.suola.link/jifeng)| 无 | 12元 100G/月|❌不支持|暂无|
-|[三番云](#三番云)|[3fan.3f66.net](https://a.suola.link/3fan)| 无 | 15.99元 100G/月|❌不支持|暂无|
-|[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://a.suola.link/laobaixing)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
-|[好好云](#好好云)|[https://www.52hhy.com](https://a.suola.link/hhy)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
-|[鱼云](#cloudfisher)|[https://cloudfisher.one](https://a.suola.link/fisher)| 无 | 5元 148G/月（年付）|✔支持|暂无|
-|[Taishan](#taishan)|[https://jp.taishan.pro](https://a.suola.link/taishan)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
-|[魔戒](#魔戒)|[https://mojie.uk](https://a.suola.link/mojie)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
-|[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://a.suola.link/feimao)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://a.suola.link/longmao)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
-|[小旋风](#小旋风)|[https://web02.xxfeng.cc](https://a.suola.link/xxf)| 无 |8元 60G/月|❌不支持|暂无|
-|[白羊星](#白羊星)|[https://baiyangxing.com](https://a.suola.link/byx)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
-|[淘气兔](#淘气兔)|[https://taoqitu.pro](https://a.suola.link/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
-|[良心云](#良心云)|[https://良心云.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)|
-|[一分机场](#一分机场)|[https://一分机场.com](https://a.suola.link/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)| 
-|[CCYZ机场](#ccyz机场)|[https://ccyz.com](https://a.suola.link/ccyz)|无|15元 150G/月|支持| [telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[扬帆云](#扬帆云)|[yftg1.net](https://c.jichangs.com/yfy)| 无 |15.99 元100g/月|❌不支持|暂无|
+|[优信云](#优信云)|[https://www.youxin66.net](https://c.jichangs.com/youxinyun)| 无 |15.99元 100G/月|❌不支持|无|
+|[闪狐云](#闪狐云)|[flashfox.cc](https://c.jichangs.com/shy)| 无 |20元 120G/月|❌不支持|[telegram](https://t.me/flashfoxcloud)|
+|[flybit](#flybit)|[goflybit.pages.dev](https://c.jichangs.com/flybit)| 1天2G |10元 100G/月|✔支持|[telegram](https://t.me/flybitvip)|
+|[青云梯](#青云梯)|[ivt01.qytvipaff.cc](https://c.jichangs.com/qyt)| 无 |8 元60g/月(年付)|❌不支持|[telegram](https://t.me/qingyunticc)|
+|[银河云](#银河云)|[inv02.galaxyaff.cc](https://c.jichangs.com/galaxy)| 无 |8 元50g/月(年付)|❌不支持|[telegram](https://t.me/GalaxyBitChannel)|
+|[Nanocloud](#nanocloud)|[https://uodoo.bid](https://c.jichangs.com/nanocloud)| 1天 2G | 1元 100G/月|❌不支持|[telegram](https://t.me/+ozCTB7VsmvFkMTNl)|
+|[宝可梦星云](#宝可梦星云)|[love.52pokemon.cc](https://c.jichangs.com/pokemon)| 无 | 6.9元 60G/月|✔支持|[telegram](https://t.me/pokemon_love)|
+|[网际快车](#网际快车)|[https://wjkc66.vip](https://c.jichangs.com/wjkc)| 1小时体验券：888888 | 6.8元 20G/不限时|✔支持|[telegram](https://t.me/wjkc66)|
+|[xxyun](#xxyun)|[https://xxyun.de](https://c.jichangs.com/xxyun)| 1天10G |8.89元 100G/月|✔支持|[telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
+|[TNT](#tnt)|[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)|无|10元60g/月(季付)|❌不支持|[telegram](https://t.me/TNTCloud2)|
+|[CyberGuard](#cyberguard)|[https://cyberguard.best](https://c.jichangs.com/cyberguard)| 无 | 18元 100G/月|✔支持|暂无|
+|[尔湾云](#尔湾云)|[https://erwan6.net](https://c.jichangs.com/erwan)| 无 | 13.99元 100G/月|❌不支持|暂无|
+|[疾风云](#疾风云)|[https://jf499.pw](https://c.jichangs.com/jifeng)| 无 | 12元 100G/月|❌不支持|暂无|
+|[三番云](#三番云)|[3fan.3f66.net](https://c.jichangs.com/3fan)| 无 | 15.99元 100G/月|❌不支持|暂无|
+|[老百姓自己的机场](#老百姓自己的机场)|[https://老百姓自己的机场.com](https://c.jichangs.com/laobaixing)| 1小时 1G | 6元 60G/月|❌不支持|暂无|
+|[好好云](#好好云)|[https://www.52hhy.com](https://c.jichangs.com/hhy)| 无 | 10元 100G/月|✔支持|[telegram](https://t.me/niceh888)|
+|[鱼云](#cloudfisher)|[https://cloudfisher.one](https://c.jichangs.com/fisher)| 无 | 5元 148G/月（年付）|✔支持|暂无|
+|[Taishan](#taishan)|[https://jp.taishan.pro](https://c.jichangs.com/taishan)| 试用 3 小时 | 10元 128G/月|✔支持|[telegram](https://t.me/+AFNttosnwsE1NDIx)|
+|[魔戒](#魔戒)|[https://mojie.uk](https://c.jichangs.com/mojie)| 无 | 1元 2G/不限时|✔支持|[telegram](https://t.me/The_Lord_Rings)|
+|[肥猫云](#肥猫云)|[https://fchb1188.fcvipaff.cc](https://c.jichangs.com/feimao)| 无 |6元 60G/月（年付）|❌不支持|[telegram](https://t.me/fatcatcloud)|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://c.jichangs.com/longmao)| 无 |15元 100G/月|❌不支持|[telegram](https://t.me/totoro_clouds)|
+|[小旋风](#小旋风)|[https://web02.xxfeng.cc](https://c.jichangs.com/xxf)| 无 |8元 60G/月|❌不支持|暂无|
+|[白羊星](#白羊星)|[https://baiyangxing.com](https://c.jichangs.com/byx)| 试用 6 小时 | 12元 100G/月|✔支持|暂无|
+|[淘气兔](#淘气兔)|[https://taoqitu.pro](https://c.jichangs.com/taoqitu)|无|7.8元 100G/月|支持| [telegram](https://t.me/taoqitu_chat)|
+|[良心云](#良心云)|[https://良心云.com](https://c.jichangs.com/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)|
+|[一分机场](#一分机场)|[https://一分机场.com](https://c.jichangs.com/liangxinyun)|无|2元 100G/月|支持| [telegram](https://t.me/liangxinyun_chat)| 
+|[CCYZ机场](#ccyz机场)|[https://ccyz.com](https://c.jichangs.com/ccyz)|无|15元 150G/月|支持| [telegram](https://t.me/+eYsE6P_xvjk2NGY5)|
 
 
 ## 简介
@@ -93,7 +93,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 ### 闪狐云
 
-闪狐云官网地址：[flashfox.cc](https://a.suola.link/shy)
+闪狐云官网地址：[flashfox.cc](https://c.jichangs.com/shy)
 
 邀请码：WQApz2pv
 
@@ -118,7 +118,7 @@ description: 2025 最好用且便宜的性价比机场推荐，每个机场至�
 
 ### flybit
 
-flybit官网地址：[goflybit.pages.dev](https://a.suola.link/flybit)
+flybit官网地址：[goflybit.pages.dev](https://c.jichangs.com/flybit)
 
 邀请码：o7YHNoqs
 
@@ -132,7 +132,7 @@ flybit官网地址：[goflybit.pages.dev](https://a.suola.link/flybit)
 
 ### 扬帆云
 
-扬帆云官网地址： [yftg1.net](https://a.suola.link/yfy)
+扬帆云官网地址： [yftg1.net](https://c.jichangs.com/yfy)
 
 年付7折优惠券：618
 
@@ -157,7 +157,7 @@ flybit官网地址：[goflybit.pages.dev](https://a.suola.link/flybit)
 
 ### 青云梯
 
-青云梯官网地址：[ivt01.qytvipaff.cc](https://a.suola.link/qyt)
+青云梯官网地址：[ivt01.qytvipaff.cc](https://c.jichangs.com/qyt)
 
 邀请码：dTvJ05CM
 
@@ -171,7 +171,7 @@ flybit官网地址：[goflybit.pages.dev](https://a.suola.link/flybit)
 
 ### 银河云
 
-银河云官网地址：[ivt02.galaxyaff.cc](https://a.suola.link/galaxy)
+银河云官网地址：[ivt02.galaxyaff.cc](https://c.jichangs.com/galaxy)
 
 邀请码：la8LavLb
 
@@ -185,7 +185,7 @@ flybit官网地址：[goflybit.pages.dev](https://a.suola.link/flybit)
 
 ### 网际快车
 
-老头vpn官网地址：[wjkc66.vip](https://a.suola.link/wjkc)
+老头vpn官网地址：[wjkc66.vip](https://c.jichangs.com/wjkc)
 
 1小时体验券：888888
 
@@ -199,7 +199,7 @@ flybit官网地址：[goflybit.pages.dev](https://a.suola.link/flybit)
 
 ### xxyun
 
-xxyun官网地址：[https://xxyun.de](https://a.suola.link/xxyun)
+xxyun官网地址：[https://xxyun.de](https://c.jichangs.com/xxyun)
 
 邀请码：JAKFEwKc
 
@@ -224,7 +224,7 @@ xxyun加速特性如下：
 
 ### cyberguard
 
-CyberGuard官网地址：[https://cyberguard.best](https://a.suola.link/cyberguard)
+CyberGuard官网地址：[https://cyberguard.best](https://c.jichangs.com/cyberguard)
 
 邀请码：XsreC0T5
 
@@ -247,7 +247,7 @@ CyberGuard官网地址：[https://cyberguard.best](https://a.suola.link/cybergua
 
 ### nanocloud
 
-NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
+NanoCloud官网地址：[https://uodoo.bid](https://c.jichangs.com/nanocloud)
 
 最便宜的订阅有1元 100G/月。
 
@@ -257,7 +257,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### 尔湾云
 
-尔湾云官网地址：[https://erwan6.net](https://a.suola.link/erwan)
+尔湾云官网地址：[https://erwan6.net](https://c.jichangs.com/erwan)
 
 
 - **<span style="color: red;">7折年付优惠码，购买时请输入 ss12</span>**
@@ -286,7 +286,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### 疾风云
 
-疾风云官网地址：[https://jf499.pw](https://a.suola.link/jifeng)
+疾风云官网地址：[https://jf499.pw](https://c.jichangs.com/jifeng)
 
 - **<span style="color: red;">年费7折优惠-jf2025: 半年9折优惠-JF888</span>**
 
@@ -314,7 +314,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### 三番云
 
-三番云官网地址：[https://3fan.3f66.net](https://a.suola.link/3fan)
+三番云官网地址：[https://3fan.3f66.net](https://c.jichangs.com/3fan)
 
 - **<span style="color: red;">👑年费七折优惠码：3fan666</span>**
 
@@ -343,7 +343,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### 肥猫云
 
-肥猫云官网地址：[https://fchb1188.fcvipaff.cc](https://a.suola.link/feimao)
+肥猫云官网地址：[https://fchb1188.fcvipaff.cc](https://c.jichangs.com/feimao)
 
 邀请码：X1vZd2wf
 
@@ -364,7 +364,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### 魔戒
 
-魔戒官网地址：[https://mojie.uk](https://a.suola.link/mojie)
+魔戒官网地址：[https://mojie.uk](https://c.jichangs.com/mojie)
 
 魔戒(mojie)是一个蛮有特色的网络加速器，按量计费不限时：
 
@@ -376,7 +376,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### 宝可梦星云
 
-宝可梦星云官网地址：[https://love.52pokemon.cc](https://a.suola.link/pokemon)
+宝可梦星云官网地址：[https://love.52pokemon.cc](https://c.jichangs.com/pokemon)
 
 最便宜的 6.9 元 60G/月。
 
@@ -388,7 +388,7 @@ NanoCloud官网地址：[https://uodoo.bid](https://a.suola.link/nanocloud)
 
 ### TNT
 
-TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
+TNT官网地址：[https://haibing822.tntvipaff.cc](https://c.jichangs.com/tnt)
 
 邀请码：GtjJVgml
 
@@ -406,7 +406,7 @@ TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
 
 ### 老百姓自己的机场
 
-老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://a.suola.link/laobaixing)
+老百姓自己的机场官网地址：[https://老百姓自己的机场.com](https://c.jichangs.com/laobaixing)
 
 最便宜套餐 6 元 60G/月。
 
@@ -416,7 +416,7 @@ TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
 
 ### 好好云
 
-好好云官网地址：[https://www.52hhy.com](https://a.suola.link/hhy)
+好好云官网地址：[https://www.52hhy.com](https://c.jichangs.com/hhy)
 
 最便宜套餐 10 元 100G/月。
 
@@ -428,7 +428,7 @@ TNT官网地址：[https://haibing822.tntvipaff.cc](https://a.suola.link/tnt)
 
 ### cloudfisher
 
-cloudfisher 官网地址：[https://cloudfisher.one](https://a.suola.link/fisher)
+cloudfisher 官网地址：[https://cloudfisher.one](https://c.jichangs.com/fisher)
 
 最便宜套餐15 元 300G/月。
 
@@ -438,7 +438,7 @@ cloudfisher 官网地址：[https://cloudfisher.one](https://a.suola.link/fisher
 
 ### taishan
 
-Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
+Taishan 官网地址：[https://jp.taishan.pro](https://c.jichangs.com/taishan)
 
 
 季付¥22.00元，每月 64G 流量。年付 64元。
@@ -461,7 +461,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 ### 龙猫云
 
-龙猫云官网地址：[lmspeed.co](https://a.suola.link/longmao)
+龙猫云官网地址：[lmspeed.co](https://c.jichangs.com/longmao)
 
 邀请码：n3wi2NwS
 
@@ -481,7 +481,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 ### 小旋风
 
-小旋风官网地址：[web02.xxfeng.cc](https://a.suola.link/xxf)
+小旋风官网地址：[web02.xxfeng.cc](https://c.jichangs.com/xxf)
 
 邀请码：80C209ADC772
 
@@ -504,7 +504,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 ### 白羊星
 
-白羊星官网地址：[baiyangxing.com](https://a.suola.link/byx)
+白羊星官网地址：[baiyangxing.com](https://c.jichangs.com/byx)
 
 邀请码：I6IGk5n6
 
@@ -518,7 +518,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 ### 淘气兔
 
-淘气兔官网地址：[taoqitu.pro](https://a.suola.link/taoqitu)
+淘气兔官网地址：[taoqitu.pro](https://c.jichangs.com/taoqitu)
 
 年付低至7.4元/月。168G流量。全中转机场，新疆无法使用！请勿下单！
 
@@ -535,7 +535,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 ### 良心云
 
-良心云官网地址：[https://良心云.com](https://a.suola.link/liangxinyun)
+良心云官网地址：[https://良心云.com](https://c.jichangs.com/liangxinyun)
 
 
 最低月付2元100G，6元月付1T。21元/1T不限时。
@@ -552,7 +552,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 ### 一分机场
 
-一分机场官网地址：[https://一分机场.com](https://a.suola.link/liangxinyun) 
+一分机场官网地址：[https://一分机场.com](https://c.jichangs.com/liangxinyun) 
 
 
 最低月付2元100G，6元月付1T。19.88元/1T不限时。
@@ -573,7 +573,7 @@ Taishan 官网地址：[https://jp.taishan.pro](https://a.suola.link/taishan)
 
 ### CCYZ机场
 
-XXYZ机场官网地址：[https://ccyz.org](https://a.suola.link/ccyz)
+XXYZ机场官网地址：[https://ccyz.org](https://c.jichangs.com/ccyz)
 
 最便宜订阅：15元 150G/月。
 

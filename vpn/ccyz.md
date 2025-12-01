@@ -38,11 +38,11 @@ tags:
 
 | 套餐 | 月流量 | 在线设备数 | 峰值速率 | 价格 | 购买 |
 | --- | --- | --- | --- | --- | --- |
-| Lite套餐-100G  | 100 GB | 无限制 | 300Mbps | 15.00元/月 | [注册购买](hhttps://a.suola.link/ccyz) |
-| Pro套餐-200G | 200 GB | 无限制 |300Mbps | 25.00元/月 | [注册购买](hhttps://a.suola.link/ccyz) |
+| Lite套餐-100G  | 100 GB | 无限制 | 300Mbps | 15.00元/月 | [注册购买](hhttps://c.jichangs.com/ccyz) |
+| Pro套餐-200G | 200 GB | 无限制 |300Mbps | 25.00元/月 | [注册购买](hhttps://c.jichangs.com/ccyz) |
 
 
-[访问CCYZ机场官网](hhttps://a.suola.link/ccyz)
+[访问CCYZ机场官网](hhttps://c.jichangs.com/ccyz)
 
 ---------
 
