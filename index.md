@@ -176,6 +176,11 @@ features:
       details: 17元 110G/月，全节点无倍率，中转机场，Trojan协议。解锁流媒体、AI。
       link: https://c.jichangs.com/guangsu
       linkText: 前往注册
+
+    - title: ✈️唯兔云
+      details: 14.9元 100G/月，全IPLC专线，Trojan协议，不限速，不限制客户端。<span style="color:red;"> 限时7折优惠码：rabbitv2</span>
+      link: https://c.jichangs.com/rabbitv2
+      linkText: 前往注册
 ---
 
 <script setup>
