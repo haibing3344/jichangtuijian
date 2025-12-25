@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 👉机场推荐👈
       link: /vpn/vpn.md
+    - theme: brand
+      text: 各大机场优惠券汇总
+      link: /article/各大机场优惠券汇总.md  
 
 
   image:
