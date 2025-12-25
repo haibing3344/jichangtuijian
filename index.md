@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: 各大机场优惠券汇总
       link: /article/各大机场优惠券汇总.md  
+    - theme: brand
+      text: 苹果共享ID
+      link: https://id001.me/applego.html  
 
 
   image:
@@ -41,7 +44,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️TNT
-      details: 10元/月。解锁了Tiktok、ChatGPT、流媒体。<span style="color:red;">新人特惠85折优惠码：TNT85;双十一8折优惠码：Crazy1111，截止11月底。</span>
+      details: 10元/月。解锁了Tiktok、ChatGPT、流媒体。<span style="color:red;">新人特惠85折优惠码：TNT85;双十一8折优惠码：Merry80，截止26年1月底。</span>
       link: /vpn/tnt.md
       linkText: 前往注册
 
@@ -81,12 +84,12 @@ features:
       linkText: 前往注册
 
     - title: ✈️青云梯
-      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;">优惠券码：10180，活动时间：即日起 ～ 2025年11月30日 23:59 </span>
+      details: 最便宜的订阅有 8元 60g/月(年付)。<span style="color:red;">优惠券码：0080，活动时间：即日起 ～ 2026年1月30日</span>
       link: /vpn/qyt.md
       linkText: 前往注册
 
     - title: ✈️银河云
-      details: 8元 50G/月，年付96元。<span style="color:red;"> 双十一8折优惠券：1180，即日起 ～ 2025年11月 30 日 23:59</span>
+      details: 8元 50G/月，年付96元。<span style="color:red;"> 8折优惠券：0080，即日起 ～ 2026年1月30日</span>
       link: https://c.jichangs.com/galaxy
       linkText: 前往注册
 
@@ -106,7 +109,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️肥猫云
-      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">72/年，每月60G，适合轻度用户。双十一8折优惠码：fat111180</span>
+      details: 大带宽不限速专线机场。年付6元/月。<span style="color:red;">72/年，每月60G，适合轻度用户。8折优惠码：hello202680</span>
       link: https://c.jichangs.com/feimao
       linkText: 前往注册
 
@@ -141,7 +144,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️龙猫云
-      details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">双十一月付/季度/半年 享受85折优惠，优惠码：lm1185。</span>
+      details: 最便宜的订阅有 15元 100G/月。<span style="color:red;">月付/季度/半年 享受85折优惠，优惠码：totoro802026。</span>
       link: /vpn/longmao.md
       linkText: 前往注册
 
@@ -151,7 +154,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️白羊星
-      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">🎁 国庆年付85折优惠码：byx815 </span>
+      details: 12元 100G/月，轻量级机场、价格超低。<span style="color:red;">🎁 年付85折优惠码：byx815 </span>
       link: /vpn/baiyangxing.md
       linkText: 前往注册
 
@@ -161,7 +164,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️良心云
-      details: 2元 100G/月，<span style="color:red;">6元 1T/月。2025年国庆七折优惠码：LXY</span>
+      details: 2元 100G/月，<span style="color:red;">6元 1T/月。</span>
       link: http://a.suola.link/liangxinyun
       linkText: 前往注册
 
@@ -176,7 +179,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️光速云
-      details: 17元 110G/月，全节点无倍率，中转机场，Trojan协议。解锁流媒体、AI。
+      details: 17元 110G/月，全节点无倍率，中转机场，Trojan协议。解锁流媒体、AI。 <span style="color:red;">元旦8折优惠码：ok88</span>
       link: https://c.jichangs.com/guangsu
       linkText: 前往注册
 
