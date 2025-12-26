@@ -49,7 +49,7 @@ features:
       linkText: 前往注册
 
     - title: ✈️NanoCloud
-      details: 最低1元 100G/月。不限速，不限设备数。<span style="color:red;">国庆年付8折优惠码：GQ2025OFF80</span>
+      details: 最低1元 100G/月。不限速，不限设备数。<span style="color:red;">元旦85折优惠码：Y2026NYR</span>
       link: https://c.jichangs.com/nanocloud
       linkText: 前往注册
 
